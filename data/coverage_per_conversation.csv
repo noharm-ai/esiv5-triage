@@ -1,0 +1,1101 @@
+case_id,model,coverage_score,n_questions,n_relevant_criteria,n_investigated,missing_criteria
+case_001,minimax21,0.82,8,11,9,"[""via_aerea"", ""choque""]"
+case_002,minimax21,1.0,8,9,9,[]
+case_003,minimax21,0.67,6,12,8,"[""choque"", ""avc"", ""intensidade_dor"", ""sangramento""]"
+case_004,minimax21,0.77,8,13,10,"[""via_aerea"", ""avc"", ""hipoglicemia""]"
+case_005,minimax21,0.8,6,10,8,"[""avc"", ""consciencia""]"
+case_006,minimax21,0.86,5,7,6,"[""medicamentos""]"
+case_007,minimax21,0.89,5,9,8,"[""sinais_vitais""]"
+case_008,minimax21,0.8,8,10,8,"[""duracao"", ""sinais_vitais""]"
+case_009,minimax21,0.88,8,8,7,"[""choque""]"
+case_010,minimax21,0.7,7,10,7,"[""via_aerea"", ""intensidade_dor"", ""angioedema""]"
+case_011,minimax21,0.63,8,8,5,"[""intensidade_dor"", ""historico"", ""estado_mental""]"
+case_012,minimax21,0.89,6,9,8,"[""avc""]"
+case_013,minimax21,1.0,6,7,7,[]
+case_014,minimax21,0.29,2,7,2,"[""sinais_vitais"", ""febre"", ""duracao"", ""historico"", ""estado_mental""]"
+case_015,minimax21,0.71,5,7,5,"[""via_aerea"", ""sinais_vitais""]"
+case_016,minimax21,0.75,5,8,6,"[""via_aerea"", ""sinais_vitais""]"
+case_017,minimax21,0.89,8,9,8,"[""dor_peito_grave""]"
+case_018,minimax21,1.0,5,8,8,[]
+case_019,minimax21,0.64,8,11,7,"[""via_aerea"", ""consciencia"", ""choque"", ""sinais_vitais""]"
+case_020,minimax21,0.78,5,9,7,"[""consciencia"", ""avc""]"
+case_021,minimax21,1.0,8,8,8,[]
+case_022,minimax21,0.9,8,10,9,"[""historico""]"
+case_023,minimax21,0.78,7,9,7,"[""via_aerea"", ""sinais_vitais""]"
+case_024,minimax21,0.91,8,11,10,"[""choque""]"
+case_025,minimax21,0.88,4,8,7,"[""avc""]"
+case_026,minimax21,0.78,5,9,7,"[""avc"", ""sinais_vitais""]"
+case_027,minimax21,0.88,6,8,7,"[""consciencia""]"
+case_028,minimax21,1.0,8,10,10,[]
+case_029,minimax21,0.78,6,9,7,"[""via_aerea"", ""sinais_vitais""]"
+case_030,minimax21,1.0,7,11,11,[]
+case_031,minimax21,1.0,7,9,9,[]
+case_032,minimax21,0.54,6,13,7,"[""via_aerea"", ""consciencia"", ""choque"", ""hipoglicemia"", ""imunossuprimido"", ""sinais_vitais""]"
+case_033,minimax21,1.0,6,9,9,[]
+case_034,minimax21,0.89,5,9,8,"[""sinais_vitais""]"
+case_035,minimax21,0.63,5,8,5,"[""choque"", ""sangramento"", ""sinais_vitais""]"
+case_036,minimax21,0.88,7,8,7,"[""via_aerea""]"
+case_037,minimax21,0.89,8,9,8,"[""via_aerea""]"
+case_038,minimax21,0.9,7,10,9,"[""choque""]"
+case_039,minimax21,0.8,4,5,4,"[""sangramento""]"
+case_040,minimax21,0.75,4,8,6,"[""via_aerea"", ""sinais_vitais""]"
+case_041,minimax21,0.8,8,10,8,"[""avc"", ""sinais_vitais""]"
+case_042,minimax21,1.0,7,9,9,[]
+case_043,minimax21,0.92,8,12,11,"[""choque""]"
+case_044,minimax21,0.7,8,10,7,"[""consciencia"", ""intensidade_dor"", ""historico""]"
+case_045,minimax21,1.0,6,8,8,[]
+case_046,minimax21,0.9,6,10,9,"[""consciencia""]"
+case_047,minimax21,0.89,6,9,8,"[""consciencia""]"
+case_048,minimax21,0.78,7,9,7,"[""sinais_vitais"", ""historico""]"
+case_049,minimax21,0.88,8,8,7,"[""intensidade_dor""]"
+case_050,minimax21,0.92,5,12,11,"[""choque""]"
+case_051,minimax21,0.89,7,9,8,"[""sangramento""]"
+case_052,minimax21,0.89,8,9,8,"[""sinais_vitais""]"
+case_053,minimax21,0.75,6,8,7,"[""via_aerea"", ""sinais_vitais""]"
+case_054,minimax21,0.83,5,6,5,"[""sangramento""]"
+case_055,minimax21,1.0,5,8,8,[]
+case_056,minimax21,0.88,6,8,7,"[""sinais_vitais""]"
+case_057,minimax21,0.9,8,10,9,"[""via_aerea""]"
+case_058,minimax21,0.8,6,10,8,"[""sangramento"", ""sinais_vitais""]"
+case_059,minimax21,1.0,5,9,9,[]
+case_060,minimax21,0.8,7,10,8,"[""intensidade_dor"", ""sinais_vitais""]"
+case_061,minimax21,0.57,6,7,4,"[""via_aerea"", ""sinais_vitais"", ""intensidade_dor""]"
+case_062,minimax21,0.89,5,9,8,"[""intensidade_dor""]"
+case_063,minimax21,0.89,7,9,8,"[""sinais_vitais""]"
+case_064,minimax21,0.89,7,9,8,"[""sangramento""]"
+case_065,minimax21,1.0,7,9,9,[]
+case_066,minimax21,1.0,6,7,7,[]
+case_067,minimax21,1.0,7,8,8,[]
+case_068,minimax21,0.8,6,10,8,"[""consciencia"", ""intensidade_dor""]"
+case_069,minimax21,1.0,8,9,9,[]
+case_070,minimax21,1.0,8,8,8,[]
+case_071,minimax21,1.0,8,10,10,[]
+case_072,minimax21,1.0,7,10,10,[]
+case_073,minimax21,0.86,6,7,6,"[""historico""]"
+case_074,minimax21,0.78,7,9,7,"[""consciencia"", ""avc""]"
+case_075,minimax21,1.0,7,8,8,[]
+case_076,minimax21,0.78,8,9,7,"[""intensidade_dor"", ""historico""]"
+case_077,minimax21,0.67,8,9,6,"[""choque"", ""sinais_vitais"", ""historico""]"
+case_078,minimax21,1.0,6,8,8,[]
+case_079,minimax21,1.0,7,9,9,[]
+case_080,minimax21,0.9,5,10,9,"[""via_aerea""]"
+case_081,minimax21,0.91,8,11,10,"[""sinais_vitais""]"
+case_082,minimax21,0.88,5,8,7,"[""consciencia""]"
+case_083,minimax21,1.0,5,9,9,[]
+case_084,minimax21,0.7,8,10,7,"[""respiracao_moderada"", ""sinais_vitais"", ""intensidade_dor""]"
+case_085,minimax21,1.0,6,9,9,[]
+case_086,minimax21,0.8,6,10,8,"[""via_aerea"", ""sinais_vitais""]"
+case_087,minimax21,1.0,8,10,10,[]
+case_088,minimax21,0.89,8,9,8,"[""via_aerea""]"
+case_089,minimax21,0.8,8,10,8,"[""via_aerea"", ""dor_peito_grave""]"
+case_090,minimax21,1.0,5,8,8,[]
+case_091,minimax21,0.86,8,7,6,"[""historico""]"
+case_092,minimax21,0.89,8,9,8,"[""historico""]"
+case_093,minimax21,0.83,5,6,5,"[""sinais_vitais""]"
+case_094,minimax21,0.83,6,6,5,"[""sinais_vitais""]"
+case_095,minimax21,0.92,8,12,11,"[""angioedema""]"
+case_096,minimax21,1.0,6,8,8,[]
+case_097,minimax21,0.73,5,11,8,"[""via_aerea"", ""sinais_vitais"", ""historico""]"
+case_098,minimax21,0.8,7,10,8,"[""via_aerea"", ""intensidade_dor""]"
+case_099,minimax21,0.75,6,8,7,"[""via_aerea"", ""sinais_vitais""]"
+case_100,minimax21,0.7,8,10,7,"[""consciencia"", ""choque"", ""sinais_vitais""]"
+case_001,deepseekv32,0.82,7,11,9,"[""choque"", ""via_aerea""]"
+case_002,deepseekv32,0.73,7,11,8,"[""avc"", ""alergia_grave"", ""angioedema""]"
+case_003,deepseekv32,0.0,1,10,0,"[""consciencia"", ""dor_peito_grave"", ""choque"", ""avc"", ""hipoglicemia"", ""estado_mental"", ""duracao"", ""medicamentos"", ""sinais_vitais"", ""historico""]"
+case_004,deepseekv32,0.78,8,9,7,"[""consciencia"", ""historico""]"
+case_005,deepseekv32,0.8,7,10,8,"[""avc"", ""sinais_vitais""]"
+case_006,deepseekv32,1.0,7,8,8,[]
+case_007,deepseekv32,0.73,5,11,8,"[""sinais_vitais"", ""historico"", ""imunossuprimido""]"
+case_008,deepseekv32,0.8,7,10,8,"[""sinais_vitais"", ""historico""]"
+case_009,deepseekv32,0.8,7,10,8,"[""sinais_vitais"", ""choque""]"
+case_010,deepseekv32,0.78,7,9,7,"[""historico"", ""sinais_vitais""]"
+case_011,deepseekv32,0.7,8,10,7,"[""consciencia"", ""sinais_vitais"", ""historico""]"
+case_012,deepseekv32,0.78,8,9,7,"[""avc"", ""historico""]"
+case_013,deepseekv32,1.0,8,7,7,[]
+case_014,deepseekv32,1.0,5,8,8,[]
+case_015,deepseekv32,1.0,6,8,8,[]
+case_016,deepseekv32,0.78,6,9,7,"[""sinais_vitais"", ""historico""]"
+case_017,deepseekv32,0.75,6,8,6,"[""sangramento"", ""historico""]"
+case_018,deepseekv32,0.88,5,8,7,"[""sinais_vitais""]"
+case_019,deepseekv32,0.7,6,10,7,"[""consciencia"", ""choque"", ""sinais_vitais""]"
+case_020,deepseekv32,0.7,8,10,7,"[""avc"", ""imunossuprimido"", ""historico""]"
+case_021,deepseekv32,0.71,7,7,5,"[""historico"", ""imunossuprimido""]"
+case_022,deepseekv32,0.78,7,9,7,"[""avc"", ""historico""]"
+case_023,deepseekv32,0.78,6,9,7,"[""via_aerea"", ""sinais_vitais""]"
+case_024,deepseekv32,0.9,6,10,9,"[""sinais_vitais""]"
+case_025,deepseekv32,0.75,6,8,6,"[""avc"", ""historico""]"
+case_026,deepseekv32,0.6,6,10,6,"[""avc"", ""alergia_grave"", ""angioedema"", ""historico""]"
+case_027,deepseekv32,0.89,7,9,8,"[""sinais_vitais""]"
+case_028,deepseekv32,0.75,7,8,6,"[""sinais_vitais"", ""historico""]"
+case_029,deepseekv32,0.78,7,9,7,"[""sinais_vitais"", ""historico""]"
+case_030,deepseekv32,0.8,7,10,8,"[""estado_mental"", ""sinais_vitais""]"
+case_031,deepseekv32,0.78,6,9,7,"[""imunossuprimido"", ""historico""]"
+case_032,deepseekv32,0.67,8,12,8,"[""choque"", ""hipoglicemia"", ""imunossuprimido"", ""sinais_vitais""]"
+case_033,deepseekv32,1.0,7,8,8,[]
+case_034,deepseekv32,0.7,7,10,7,"[""sinais_vitais"", ""historico"", ""imunossuprimido""]"
+case_035,deepseekv32,0.82,8,11,9,"[""choque"", ""sangramento""]"
+case_036,deepseekv32,0.67,7,9,6,"[""intensidade_dor"", ""sinais_vitais"", ""historico""]"
+case_037,deepseekv32,0.82,8,11,9,"[""choque"", ""sangramento""]"
+case_038,deepseekv32,0.8,7,10,8,"[""choque"", ""sinais_vitais""]"
+case_039,deepseekv32,0.83,6,6,5,"[""sangramento""]"
+case_040,deepseekv32,0.9,6,10,9,"[""sinais_vitais""]"
+case_041,deepseekv32,1.0,6,9,9,[]
+case_042,deepseekv32,0.73,7,11,8,"[""sinais_vitais"", ""historico"", ""imunossuprimido""]"
+case_043,deepseekv32,0.75,7,12,9,"[""choque"", ""hipoglicemia"", ""sinais_vitais""]"
+case_044,deepseekv32,0.89,8,9,8,"[""historico""]"
+case_045,deepseekv32,0.78,8,9,7,"[""historico"", ""sinais_vitais""]"
+case_046,deepseekv32,1.0,6,10,10,[]
+case_047,deepseekv32,0.89,8,9,8,"[""comportamento""]"
+case_048,deepseekv32,0.89,6,9,8,"[""historico""]"
+case_049,deepseekv32,0.86,5,7,6,"[""sinais_vitais""]"
+case_050,deepseekv32,0.82,8,11,9,"[""choque"", ""sinais_vitais""]"
+case_051,deepseekv32,0.8,8,10,8,"[""choque"", ""sangramento""]"
+case_052,deepseekv32,0.75,8,12,9,"[""via_aerea"", ""sinais_vitais"", ""hipoglicemia""]"
+case_053,deepseekv32,0.78,7,9,7,"[""historico"", ""sinais_vitais""]"
+case_054,deepseekv32,0.88,6,8,7,"[""sangramento""]"
+case_055,deepseekv32,0.89,7,9,8,"[""imunossuprimido""]"
+case_056,deepseekv32,0.89,7,9,8,"[""sinais_vitais""]"
+case_057,deepseekv32,0.67,6,9,6,"[""via_aerea"", ""sinais_vitais"", ""historico""]"
+case_058,deepseekv32,0.8,8,10,8,"[""dor_peito_grave"", ""historico""]"
+case_059,deepseekv32,1.0,7,10,10,[]
+case_060,deepseekv32,0.89,7,9,8,"[""intensidade_dor""]"
+case_061,deepseekv32,1.0,8,9,9,[]
+case_062,deepseekv32,0.88,5,8,7,"[""historico""]"
+case_063,deepseekv32,0.8,8,10,8,"[""historico"", ""sinais_vitais""]"
+case_064,deepseekv32,0.78,6,9,7,"[""consciencia"", ""sangramento""]"
+case_065,deepseekv32,1.0,8,7,7,[]
+case_066,deepseekv32,0.9,8,10,9,"[""sangramento""]"
+case_067,deepseekv32,0.75,7,8,6,"[""historico"", ""sinais_vitais""]"
+case_068,deepseekv32,0.78,8,9,7,"[""sinais_vitais"", ""historico""]"
+case_069,deepseekv32,0.75,6,8,6,"[""via_aerea"", ""sinais_vitais""]"
+case_070,deepseekv32,1.0,6,9,9,[]
+case_071,deepseekv32,0.89,6,9,8,"[""sinais_vitais""]"
+case_072,deepseekv32,0.7,8,10,7,"[""consciencia"", ""choque"", ""sinais_vitais""]"
+case_073,deepseekv32,0.86,8,7,6,"[""historico""]"
+case_074,deepseekv32,0.7,6,10,7,"[""avc"", ""intensidade_dor"", ""sinais_vitais""]"
+case_075,deepseekv32,0.9,8,10,9,"[""sinais_vitais""]"
+case_076,deepseekv32,0.9,8,10,9,"[""historico""]"
+case_077,deepseekv32,0.67,5,9,6,"[""estado_mental"", ""sinais_vitais"", ""historico""]"
+case_078,deepseekv32,0.89,7,9,8,"[""avc""]"
+case_079,deepseekv32,0.8,8,10,8,"[""choque"", ""sinais_vitais""]"
+case_080,deepseekv32,0.86,6,7,6,"[""historico""]"
+case_081,deepseekv32,0.75,8,8,6,"[""sinais_vitais"", ""historico""]"
+case_082,deepseekv32,0.89,7,9,8,"[""avc""]"
+case_083,deepseekv32,0.7,7,10,7,"[""imunossuprimido"", ""sinais_vitais"", ""historico""]"
+case_084,deepseekv32,0.78,7,9,7,"[""consciencia"", ""sinais_vitais""]"
+case_085,deepseekv32,0.86,5,7,6,"[""historico""]"
+case_086,deepseekv32,0.9,6,10,9,"[""sinais_vitais""]"
+case_087,deepseekv32,1.0,6,9,9,[]
+case_088,deepseekv32,0.67,7,9,6,"[""via_aerea"", ""sinais_vitais"", ""historico""]"
+case_089,deepseekv32,0.8,7,10,8,"[""dor_peito_grave"", ""sinais_vitais""]"
+case_090,deepseekv32,0.88,6,8,7,"[""historico""]"
+case_091,deepseekv32,0.63,8,8,5,"[""intensidade_dor"", ""sinais_vitais"", ""historico""]"
+case_092,deepseekv32,1.0,6,9,9,[]
+case_093,deepseekv32,1.0,8,7,7,[]
+case_094,deepseekv32,1.0,6,7,7,[]
+case_095,deepseekv32,0.75,8,8,6,"[""consciencia"", ""historico""]"
+case_096,deepseekv32,0.71,5,7,5,"[""sinais_vitais"", ""historico""]"
+case_097,deepseekv32,1.0,8,9,9,[]
+case_098,deepseekv32,0.89,8,9,8,"[""historico""]"
+case_099,deepseekv32,0.75,6,8,6,"[""via_aerea"", ""sinais_vitais""]"
+case_100,deepseekv32,1.0,7,9,9,[]
+case_001,kimik25,0.92,8,12,11,"[""dor_peito_grave""]"
+case_002,kimik25,0.91,8,11,10,"[""consciencia""]"
+case_003,kimik25,0.82,8,11,9,"[""intensidade_dor"", ""sangramento""]"
+case_004,kimik25,0.56,3,9,5,"[""avc"", ""sinais_vitais"", ""historico"", ""medicamentos""]"
+case_005,kimik25,1.0,8,9,9,[]
+case_006,kimik25,1.0,5,6,6,[]
+case_007,kimik25,1.0,6,8,8,[]
+case_008,kimik25,0.82,5,11,9,"[""dor_peito_grave"", ""via_aerea""]"
+case_009,kimik25,0.73,5,11,8,"[""choque"", ""estado_mental"", ""sinais_vitais""]"
+case_010,kimik25,1.0,5,9,9,[]
+case_011,kimik25,0.78,5,9,7,"[""consciencia"", ""sinais_vitais""]"
+case_012,kimik25,0.89,7,9,8,"[""avc""]"
+case_013,kimik25,1.0,7,7,7,[]
+case_014,kimik25,1.0,5,8,8,[]
+case_015,kimik25,1.0,8,8,8,[]
+case_016,kimik25,0.9,6,10,9,"[""via_aerea""]"
+case_017,kimik25,0.89,6,9,8,"[""sangramento""]"
+case_018,kimik25,0.83,8,6,5,"[""sinais_vitais""]"
+case_019,kimik25,0.9,6,10,9,"[""sinais_vitais""]"
+case_020,kimik25,1.0,8,9,9,[]
+case_021,kimik25,0.78,4,9,7,"[""imunossuprimido"", ""historico""]"
+case_022,kimik25,0.89,7,9,8,"[""avc""]"
+case_023,kimik25,0.9,8,10,9,"[""sinais_vitais""]"
+case_024,kimik25,0.78,8,9,7,"[""via_aerea"", ""historico""]"
+case_025,kimik25,1.0,6,10,10,[]
+case_026,kimik25,0.88,8,8,7,"[""historico""]"
+case_027,kimik25,0.56,7,9,5,"[""via_aerea"", ""avc"", ""duracao"", ""historico""]"
+case_028,kimik25,0.8,7,5,4,"[""historico""]"
+case_029,kimik25,0.9,4,10,9,"[""via_aerea""]"
+case_030,kimik25,0.89,7,9,8,"[""choque""]"
+case_031,kimik25,0.88,5,8,7,"[""duracao""]"
+case_032,kimik25,0.13,2,8,1,"[""choque"", ""hipoglicemia"", ""estado_mental"", ""duracao"", ""medicamentos"", ""sinais_vitais"", ""historico""]"
+case_033,kimik25,1.0,5,8,8,[]
+case_034,kimik25,1.0,7,9,9,[]
+case_035,kimik25,0.88,6,8,7,"[""sinais_vitais""]"
+case_036,kimik25,0.89,8,9,8,"[""sinais_vitais""]"
+case_037,kimik25,0.88,6,8,7,"[""historico""]"
+case_038,kimik25,1.0,8,9,9,[]
+case_039,kimik25,1.0,5,7,7,[]
+case_040,kimik25,0.88,6,8,7,"[""sinais_vitais""]"
+case_041,kimik25,0.7,5,10,7,"[""avc"", ""sinais_vitais"", ""historico""]"
+case_042,kimik25,1.0,4,8,8,[]
+case_043,kimik25,0.82,8,11,9,"[""choque"", ""sinais_vitais""]"
+case_044,kimik25,0.89,8,9,8,"[""duracao""]"
+case_045,kimik25,0.86,8,7,6,"[""historico""]"
+case_046,kimik25,0.88,5,8,7,"[""estado_mental""]"
+case_047,kimik25,1.0,8,9,9,[]
+case_048,kimik25,1.0,6,12,12,[]
+case_049,kimik25,1.0,8,9,9,[]
+case_050,kimik25,1.0,8,11,11,[]
+case_051,kimik25,0.83,5,12,10,"[""choque"", ""sinais_vitais""]"
+case_052,kimik25,0.9,8,10,9,"[""sinais_vitais""]"
+case_053,kimik25,0.89,6,9,8,"[""sinais_vitais""]"
+case_054,kimik25,0.86,7,7,6,"[""historico""]"
+case_055,kimik25,1.0,7,9,9,[]
+case_056,kimik25,0.89,8,9,8,"[""dor_peito_grave""]"
+case_057,kimik25,0.89,4,9,8,"[""via_aerea""]"
+case_058,kimik25,0.89,7,9,8,"[""historico""]"
+case_059,kimik25,1.0,6,9,9,[]
+case_060,kimik25,0.25,2,8,2,"[""via_aerea"", ""respiracao_moderada"", ""febre"", ""sinais_vitais"", ""historico"", ""medicamentos""]"
+case_061,kimik25,0.75,5,8,6,"[""intensidade_dor"", ""sinais_vitais""]"
+case_062,kimik25,1.0,6,8,8,[]
+case_063,kimik25,0.91,8,11,10,"[""sinais_vitais""]"
+case_064,kimik25,0.89,6,9,8,"[""historico""]"
+case_065,kimik25,1.0,7,8,8,[]
+case_066,kimik25,0.88,5,8,7,"[""sangramento""]"
+case_067,kimik25,1.0,6,8,8,[]
+case_068,kimik25,0.22,2,9,2,"[""consciencia"", ""intensidade_dor"", ""duracao"", ""febre"", ""sinais_vitais"", ""historico"", ""medicamentos""]"
+case_069,kimik25,0.89,7,9,8,"[""via_aerea""]"
+case_070,kimik25,1.0,5,7,7,[]
+case_071,kimik25,0.78,6,9,7,"[""dor_peito_grave"", ""sinais_vitais""]"
+case_072,kimik25,0.8,8,10,8,"[""choque"", ""sinais_vitais""]"
+case_073,kimik25,1.0,8,7,7,[]
+case_074,kimik25,0.7,4,10,7,"[""sinais_vitais"", ""historico"", ""estado_mental""]"
+case_075,kimik25,0.86,6,7,6,"[""sinais_vitais""]"
+case_076,kimik25,0.8,7,10,8,"[""consciencia"", ""intensidade_dor""]"
+case_077,kimik25,0.9,7,10,9,"[""via_aerea""]"
+case_078,kimik25,1.0,7,9,9,[]
+case_079,kimik25,0.73,8,11,8,"[""choque"", ""sinais_vitais"", ""historico""]"
+case_080,kimik25,0.89,5,9,8,"[""sinais_vitais""]"
+case_081,kimik25,0.78,8,9,7,"[""duracao"", ""historico""]"
+case_082,kimik25,1.0,5,9,9,[]
+case_083,kimik25,1.0,5,8,8,[]
+case_084,kimik25,0.38,2,8,3,"[""intensidade_dor"", ""febre"", ""sinais_vitais"", ""historico"", ""medicamentos""]"
+case_085,kimik25,1.0,7,8,8,[]
+case_086,kimik25,0.9,6,10,9,"[""historico""]"
+case_087,kimik25,0.9,5,10,9,"[""sinais_vitais""]"
+case_088,kimik25,0.9,7,10,9,"[""sinais_vitais""]"
+case_089,kimik25,0.82,8,11,9,"[""choque"", ""sinais_vitais""]"
+case_090,kimik25,1.0,6,8,8,[]
+case_091,kimik25,0.9,7,10,9,"[""intensidade_dor""]"
+case_092,kimik25,1.0,7,7,7,[]
+case_093,kimik25,0.86,6,7,6,"[""historico""]"
+case_094,kimik25,0.75,6,8,6,"[""sinais_vitais"", ""estado_mental""]"
+case_095,kimik25,1.0,7,9,9,[]
+case_096,kimik25,0.89,6,9,8,"[""intensidade_dor""]"
+case_097,kimik25,0.89,5,9,8,"[""sinais_vitais""]"
+case_098,kimik25,0.88,4,8,7,"[""historico""]"
+case_099,kimik25,1.0,7,9,9,[]
+case_100,kimik25,0.75,8,8,6,"[""choque"", ""sinais_vitais""]"
+case_001,sabia_4_thinking,0.7,8,10,7,"[""choque"", ""intensidade_dor"", ""sinais_vitais""]"
+case_002,sabia_4_thinking,0.91,8,11,10,"[""alergia_grave""]"
+case_003,sabia_4_thinking,0.0,1,10,0,"[""consciencia"", ""dor_peito_grave"", ""choque"", ""avc"", ""hipoglicemia"", ""estado_mental"", ""duracao"", ""medicamentos"", ""sinais_vitais"", ""historico""]"
+case_004,sabia_4_thinking,0.25,2,8,2,"[""avc"", ""hipoglicemia"", ""sinais_vitais"", ""duracao"", ""historico"", ""medicamentos""]"
+case_005,sabia_4_thinking,1.0,5,9,9,[]
+case_006,sabia_4_thinking,1.0,5,8,8,[]
+case_007,sabia_4_thinking,1.0,5,10,10,[]
+case_008,sabia_4_thinking,0.82,4,11,9,"[""via_aerea"", ""avc""]"
+case_009,sabia_4_thinking,0.9,6,10,9,"[""sinais_vitais""]"
+case_010,sabia_4_thinking,0.89,5,9,8,"[""dor_peito_grave""]"
+case_011,sabia_4_thinking,0.89,8,9,8,"[""consciencia""]"
+case_012,sabia_4_thinking,1.0,7,9,9,[]
+case_013,sabia_4_thinking,1.0,6,8,8,[]
+case_014,sabia_4_thinking,0.63,3,8,5,"[""intensidade_dor"", ""historico"", ""medicamentos""]"
+case_015,sabia_4_thinking,0.88,5,8,7,"[""sinais_vitais""]"
+case_016,sabia_4_thinking,0.89,5,9,8,"[""via_aerea""]"
+case_017,sabia_4_thinking,0.8,5,10,8,"[""choque"", ""sangramento""]"
+case_018,sabia_4_thinking,0.88,5,8,7,"[""dor_peito_grave""]"
+case_019,sabia_4_thinking,0.89,4,9,8,"[""sinais_vitais""]"
+case_020,sabia_4_thinking,0.89,5,9,8,"[""consciencia""]"
+case_021,sabia_4_thinking,0.88,5,8,7,"[""alergia_grave""]"
+case_022,sabia_4_thinking,0.9,7,10,9,"[""sinais_vitais""]"
+case_023,sabia_4_thinking,0.88,4,8,7,"[""sinais_vitais""]"
+case_024,sabia_4_thinking,0.78,5,9,7,"[""via_aerea"", ""sinais_vitais""]"
+case_025,sabia_4_thinking,1.0,8,10,10,[]
+case_026,sabia_4_thinking,0.89,7,9,8,"[""sinais_vitais""]"
+case_027,sabia_4_thinking,1.0,7,8,8,[]
+case_028,sabia_4_thinking,1.0,5,7,7,[]
+case_029,sabia_4_thinking,0.8,6,10,8,"[""intensidade_dor"", ""sinais_vitais""]"
+case_030,sabia_4_thinking,0.89,6,9,8,"[""via_aerea""]"
+case_031,sabia_4_thinking,1.0,4,9,9,[]
+case_032,sabia_4_thinking,0.92,7,12,11,"[""consciencia""]"
+case_033,sabia_4_thinking,1.0,7,9,9,[]
+case_034,sabia_4_thinking,0.9,6,10,9,"[""dor_peito_grave""]"
+case_035,sabia_4_thinking,0.7,5,10,7,"[""choque"", ""sangramento"", ""sinais_vitais""]"
+case_036,sabia_4_thinking,0.75,6,8,6,"[""via_aerea"", ""sinais_vitais""]"
+case_037,sabia_4_thinking,0.67,6,12,8,"[""via_aerea"", ""choque"", ""hipoglicemia"", ""sinais_vitais""]"
+case_038,sabia_4_thinking,0.91,7,11,10,"[""sinais_vitais""]"
+case_039,sabia_4_thinking,0.88,5,8,7,"[""sangramento""]"
+case_040,sabia_4_thinking,1.0,6,10,10,[]
+case_041,sabia_4_thinking,0.6,4,10,6,"[""avc"", ""sinais_vitais"", ""historico"", ""medicamentos""]"
+case_042,sabia_4_thinking,0.88,5,8,7,"[""angioedema""]"
+case_043,sabia_4_thinking,0.73,7,11,8,"[""consciencia"", ""choque"", ""sinais_vitais""]"
+case_044,sabia_4_thinking,0.88,8,8,7,"[""consciencia""]"
+case_045,sabia_4_thinking,1.0,7,8,8,[]
+case_046,sabia_4_thinking,1.0,5,8,8,[]
+case_047,sabia_4_thinking,0.78,5,9,7,"[""dor_peito_grave"", ""sangramento""]"
+case_048,sabia_4_thinking,0.36,3,11,4,"[""dor_peito_grave"", ""alergia_grave"", ""angioedema"", ""febre"", ""sinais_vitais"", ""historico"", ""medicamentos""]"
+case_049,sabia_4_thinking,1.0,5,8,8,[]
+case_050,sabia_4_thinking,0.89,5,9,8,"[""intensidade_dor""]"
+case_051,sabia_4_thinking,0.8,6,10,8,"[""choque"", ""sangramento""]"
+case_052,sabia_4_thinking,0.58,8,12,7,"[""avc"", ""choque"", ""hipoglicemia"", ""sinais_vitais"", ""intensidade_dor""]"
+case_053,sabia_4_thinking,1.0,6,8,8,[]
+case_054,sabia_4_thinking,0.86,6,7,6,"[""sangramento""]"
+case_055,sabia_4_thinking,1.0,5,8,8,[]
+case_056,sabia_4_thinking,1.0,7,8,8,[]
+case_057,sabia_4_thinking,0.29,2,7,2,"[""sinais_vitais"", ""duracao"", ""febre"", ""historico"", ""medicamentos""]"
+case_058,sabia_4_thinking,0.44,3,9,4,"[""sangramento"", ""duracao"", ""medicamentos"", ""historico"", ""sinais_vitais""]"
+case_059,sabia_4_thinking,0.89,5,9,8,"[""sinais_vitais""]"
+case_060,sabia_4_thinking,0.88,5,8,7,"[""sinais_vitais""]"
+case_061,sabia_4_thinking,0.29,2,7,2,"[""sinais_vitais"", ""duracao"", ""febre"", ""historico"", ""medicamentos""]"
+case_062,sabia_4_thinking,1.0,5,8,8,[]
+case_063,sabia_4_thinking,0.89,6,9,8,"[""dor_peito_grave""]"
+case_064,sabia_4_thinking,0.8,6,10,8,"[""sangramento"", ""historico""]"
+case_065,sabia_4_thinking,0.86,6,7,6,"[""estado_mental""]"
+case_066,sabia_4_thinking,1.0,5,8,8,[]
+case_067,sabia_4_thinking,0.89,5,9,8,"[""imunossuprimido""]"
+case_068,sabia_4_thinking,0.89,4,9,8,"[""sinais_vitais""]"
+case_069,sabia_4_thinking,0.89,5,9,8,"[""sinais_vitais""]"
+case_070,sabia_4_thinking,1.0,5,7,7,[]
+case_071,sabia_4_thinking,1.0,6,10,10,[]
+case_072,sabia_4_thinking,1.0,6,10,10,[]
+case_073,sabia_4_thinking,1.0,5,7,7,[]
+case_074,sabia_4_thinking,1.0,5,8,8,[]
+case_075,sabia_4_thinking,0.89,7,9,8,"[""intensidade_dor""]"
+case_076,sabia_4_thinking,1.0,3,8,8,[]
+case_077,sabia_4_thinking,0.89,5,9,8,"[""sinais_vitais""]"
+case_078,sabia_4_thinking,1.0,6,9,9,[]
+case_079,sabia_4_thinking,0.8,8,10,8,"[""choque"", ""sinais_vitais""]"
+case_080,sabia_4_thinking,1.0,5,8,8,[]
+case_081,sabia_4_thinking,0.89,8,9,8,"[""intensidade_dor""]"
+case_082,sabia_4_thinking,1.0,5,9,9,[]
+case_083,sabia_4_thinking,1.0,4,9,9,[]
+case_084,sabia_4_thinking,0.56,4,9,5,"[""choque"", ""intensidade_dor"", ""historico"", ""medicamentos""]"
+case_085,sabia_4_thinking,0.89,5,9,8,"[""angioedema""]"
+case_086,sabia_4_thinking,1.0,5,9,9,[]
+case_087,sabia_4_thinking,0.63,3,8,5,"[""via_aerea"", ""sinais_vitais"", ""intensidade_dor""]"
+case_088,sabia_4_thinking,0.75,4,8,6,"[""via_aerea"", ""sinais_vitais""]"
+case_089,sabia_4_thinking,0.88,5,8,7,"[""sinais_vitais""]"
+case_090,sabia_4_thinking,1.0,5,9,9,[]
+case_091,sabia_4_thinking,1.0,8,8,8,[]
+case_092,sabia_4_thinking,1.0,5,8,8,[]
+case_093,sabia_4_thinking,0.83,6,6,5,"[""sinais_vitais""]"
+case_094,sabia_4_thinking,1.0,5,7,7,[]
+case_095,sabia_4_thinking,0.67,4,9,6,"[""duracao"", ""historico"", ""medicamentos""]"
+case_096,sabia_4_thinking,0.75,6,8,6,"[""via_aerea"", ""sinais_vitais""]"
+case_097,sabia_4_thinking,0.89,6,9,8,"[""sinais_vitais""]"
+case_098,sabia_4_thinking,0.63,5,8,5,"[""via_aerea"", ""consciencia"", ""sinais_vitais""]"
+case_099,sabia_4_thinking,1.0,8,9,9,[]
+case_100,sabia_4_thinking,0.92,5,12,11,"[""consciencia""]"
+case_001,qwen3-next,0.64,8,11,7,"[""via_aerea"", ""choque"", ""intensidade_dor"", ""historico""]"
+case_002,qwen3-next,0.7,8,10,7,"[""consciencia"", ""historico"", ""sangramento""]"
+case_003,qwen3-next,0.73,8,11,8,"[""avc"", ""intensidade_dor"", ""sinais_vitais""]"
+case_004,qwen3-next,0.5,8,10,5,"[""consciencia"", ""avc"", ""hipoglicemia"", ""historico"", ""sinais_vitais""]"
+case_005,qwen3-next,0.67,7,9,6,"[""consciencia"", ""avc"", ""historico""]"
+case_006,qwen3-next,1.0,6,6,6,[]
+case_007,qwen3-next,0.8,6,10,8,"[""imunossuprimido"", ""historico""]"
+case_008,qwen3-next,0.82,8,11,9,"[""consciencia"", ""avc""]"
+case_009,qwen3-next,0.78,8,9,7,"[""choque"", ""historico""]"
+case_010,qwen3-next,0.89,6,9,8,"[""sinais_vitais""]"
+case_011,qwen3-next,0.89,8,9,8,"[""historico""]"
+case_012,qwen3-next,0.67,6,9,6,"[""consciencia"", ""avc"", ""historico""]"
+case_013,qwen3-next,0.86,6,7,6,"[""historico""]"
+case_014,qwen3-next,0.9,8,10,9,"[""historico""]"
+case_015,qwen3-next,0.71,8,7,5,"[""via_aerea"", ""sinais_vitais""]"
+case_016,qwen3-next,0.78,7,9,7,"[""via_aerea"", ""historico""]"
+case_017,qwen3-next,0.88,7,8,7,"[""sangramento""]"
+case_018,qwen3-next,0.83,5,6,5,"[""historico""]"
+case_019,qwen3-next,0.89,6,9,8,"[""sinais_vitais""]"
+case_020,qwen3-next,0.45,8,11,5,"[""via_aerea"", ""consciencia"", ""avc"", ""imunossuprimido"", ""estado_mental"", ""historico""]"
+case_021,qwen3-next,0.88,7,8,7,"[""historico""]"
+case_022,qwen3-next,0.67,6,9,6,"[""consciencia"", ""avc"", ""historico""]"
+case_023,qwen3-next,1.0,8,9,9,[]
+case_024,qwen3-next,0.67,6,9,6,"[""via_aerea"", ""sinais_vitais"", ""historico""]"
+case_025,qwen3-next,0.67,6,9,6,"[""consciencia"", ""avc"", ""historico""]"
+case_026,qwen3-next,0.78,8,9,7,"[""consciencia"", ""avc""]"
+case_027,qwen3-next,0.78,7,9,7,"[""avc"", ""historico""]"
+case_028,qwen3-next,0.71,5,7,5,"[""historico"", ""sinais_vitais""]"
+case_029,qwen3-next,0.67,8,9,6,"[""via_aerea"", ""dor_peito_grave"", ""historico""]"
+case_030,qwen3-next,0.86,8,7,6,"[""estado_mental""]"
+case_031,qwen3-next,1.0,8,8,8,[]
+case_032,qwen3-next,0.64,8,11,7,"[""via_aerea"", ""sinais_vitais"", ""estado_mental"", ""hipoglicemia""]"
+case_033,qwen3-next,0.89,8,9,8,"[""via_aerea""]"
+case_034,qwen3-next,0.89,8,9,8,"[""historico""]"
+case_035,qwen3-next,0.78,8,9,7,"[""historico"", ""sangramento""]"
+case_036,qwen3-next,0.5,4,8,4,"[""via_aerea"", ""intensidade_dor"", ""sinais_vitais"", ""historico""]"
+case_037,qwen3-next,0.78,8,9,7,"[""consciencia"", ""imunossuprimido""]"
+case_038,qwen3-next,0.63,8,8,5,"[""historico"", ""choque"", ""sangramento""]"
+case_039,qwen3-next,0.67,7,9,6,"[""consciencia"", ""sangramento"", ""historico""]"
+case_040,qwen3-next,0.89,8,9,8,"[""sinais_vitais""]"
+case_041,qwen3-next,0.78,7,9,7,"[""consciencia"", ""historico""]"
+case_042,qwen3-next,0.88,6,8,7,"[""historico""]"
+case_043,qwen3-next,0.54,8,13,7,"[""via_aerea"", ""consciencia"", ""choque"", ""hipoglicemia"", ""estado_mental"", ""sinais_vitais""]"
+case_044,qwen3-next,0.75,8,8,6,"[""via_aerea"", ""historico""]"
+case_045,qwen3-next,0.88,8,8,7,"[""historico""]"
+case_046,qwen3-next,0.89,6,9,8,"[""historico""]"
+case_047,qwen3-next,0.89,8,9,8,"[""dor_peito_grave""]"
+case_048,qwen3-next,0.67,8,12,8,"[""dor_peito_grave"", ""alergia_grave"", ""sinais_vitais"", ""historico""]"
+case_049,qwen3-next,0.67,5,9,6,"[""via_aerea"", ""sinais_vitais"", ""historico""]"
+case_050,qwen3-next,0.78,8,9,7,"[""choque"", ""sinais_vitais""]"
+case_051,qwen3-next,0.75,5,8,6,"[""historico"", ""sangramento""]"
+case_052,qwen3-next,0.36,8,11,4,"[""dor_peito_grave"", ""via_aerea"", ""consciencia"", ""choque"", ""medicamentos"", ""sinais_vitais"", ""historico""]"
+case_053,qwen3-next,0.89,6,9,8,"[""historico""]"
+case_054,qwen3-next,0.78,8,9,7,"[""consciencia"", ""sangramento""]"
+case_055,qwen3-next,0.86,6,7,6,"[""historico""]"
+case_056,qwen3-next,0.63,8,8,5,"[""via_aerea"", ""dor_peito_grave"", ""historico""]"
+case_057,qwen3-next,0.7,7,10,7,"[""via_aerea"", ""imunossuprimido"", ""historico""]"
+case_058,qwen3-next,0.6,6,10,6,"[""consciencia"", ""choque"", ""sangramento"", ""historico""]"
+case_059,qwen3-next,0.89,6,9,8,"[""sinais_vitais""]"
+case_060,qwen3-next,0.89,6,9,8,"[""historico""]"
+case_061,qwen3-next,0.78,6,9,7,"[""sinais_vitais"", ""historico""]"
+case_062,qwen3-next,1.0,8,9,9,[]
+case_063,qwen3-next,0.78,6,9,7,"[""dor_peito_grave"", ""historico""]"
+case_064,qwen3-next,0.64,8,11,7,"[""via_aerea"", ""consciencia"", ""estado_mental"", ""historico""]"
+case_065,qwen3-next,0.86,8,7,6,"[""historico""]"
+case_066,qwen3-next,0.86,8,7,6,"[""historico""]"
+case_067,qwen3-next,0.88,8,8,7,"[""historico""]"
+case_068,qwen3-next,0.7,8,10,7,"[""consciencia"", ""sinais_vitais"", ""historico""]"
+case_069,qwen3-next,0.56,6,9,5,"[""via_aerea"", ""sinais_vitais"", ""historico"", ""imunossuprimido""]"
+case_070,qwen3-next,1.0,8,9,9,[]
+case_071,qwen3-next,1.0,8,8,8,[]
+case_072,qwen3-next,0.5,8,10,5,"[""consciencia"", ""choque"", ""hipoglicemia"", ""sinais_vitais"", ""historico""]"
+case_073,qwen3-next,0.86,6,7,6,"[""historico""]"
+case_074,qwen3-next,0.67,6,9,6,"[""consciencia"", ""avc"", ""historico""]"
+case_075,qwen3-next,1.0,8,9,9,[]
+case_076,qwen3-next,0.89,8,9,8,"[""historico""]"
+case_077,qwen3-next,0.9,8,10,9,"[""choque""]"
+case_078,qwen3-next,0.67,6,9,6,"[""consciencia"", ""avc"", ""historico""]"
+case_079,qwen3-next,0.67,8,9,6,"[""choque"", ""consciencia"", ""sinais_vitais""]"
+case_080,qwen3-next,0.75,8,8,6,"[""historico"", ""sinais_vitais""]"
+case_081,qwen3-next,0.7,8,10,7,"[""via_aerea"", ""consciencia"", ""historico""]"
+case_082,qwen3-next,0.56,5,9,5,"[""consciencia"", ""avc"", ""estado_mental"", ""historico""]"
+case_083,qwen3-next,1.0,6,9,9,[]
+case_084,qwen3-next,0.78,8,9,7,"[""consciencia"", ""historico""]"
+case_085,qwen3-next,0.86,7,7,6,"[""historico""]"
+case_086,qwen3-next,0.6,8,10,6,"[""via_aerea"", ""sinais_vitais"", ""historico"", ""imunossuprimido""]"
+case_087,qwen3-next,0.6,7,10,6,"[""via_aerea"", ""dor_peito_grave"", ""historico"", ""sinais_vitais""]"
+case_088,qwen3-next,0.78,8,9,7,"[""sinais_vitais"", ""historico""]"
+case_089,qwen3-next,0.7,8,10,7,"[""via_aerea"", ""dor_peito_grave"", ""sinais_vitais""]"
+case_090,qwen3-next,1.0,8,7,7,[]
+case_091,qwen3-next,0.89,8,9,8,"[""historico""]"
+case_092,qwen3-next,0.89,8,9,8,"[""historico""]"
+case_093,qwen3-next,0.67,6,6,4,"[""historico"", ""sinais_vitais""]"
+case_094,qwen3-next,1.0,7,7,7,[]
+case_095,qwen3-next,0.6,8,10,6,"[""consciencia"", ""intensidade_dor"", ""sinais_vitais"", ""historico""]"
+case_096,qwen3-next,0.55,5,11,6,"[""via_aerea"", ""sinais_vitais"", ""historico"", ""alergia_grave"", ""angioedema""]"
+case_097,qwen3-next,0.88,8,8,7,"[""historico""]"
+case_098,qwen3-next,0.8,8,10,8,"[""sinais_vitais"", ""historico""]"
+case_099,qwen3-next,0.88,8,8,8,"[""sinais_vitais""]"
+case_100,qwen3-next,0.75,7,8,6,"[""consciencia"", ""historico""]"
+case_001,sabia_4,1.0,8,10,10,[]
+case_002,sabia_4,0.82,8,11,9,"[""avc"", ""historico""]"
+case_003,sabia_4,0.0,1,13,0,"[""consciencia"", ""via_aerea"", ""dor_peito_grave"", ""choque"", ""avc"", ""hipoglicemia"", ""intensidade_dor"", ""estado_mental"", ""sangramento"", ""duracao"", ""medicamentos"", ""sinais_vitais"", ""historico""]"
+case_004,sabia_4,0.82,8,11,9,"[""avc"", ""sinais_vitais""]"
+case_005,sabia_4,0.88,5,8,7,"[""avc""]"
+case_006,sabia_4,1.0,5,6,6,[]
+case_007,sabia_4,1.0,6,8,8,[]
+case_008,sabia_4,1.0,8,10,10,[]
+case_009,sabia_4,0.89,7,9,8,"[""choque""]"
+case_010,sabia_4,0.44,4,9,4,"[""dor_peito_grave"", ""sinais_vitais"", ""historico"", ""medicamentos"", ""febre""]"
+case_011,sabia_4,0.78,7,9,7,"[""respiracao_moderada"", ""sinais_vitais""]"
+case_012,sabia_4,1.0,5,9,9,[]
+case_013,sabia_4,0.86,7,7,6,"[""sinais_vitais""]"
+case_014,sabia_4,0.75,4,8,6,"[""via_aerea"", ""sinais_vitais""]"
+case_015,sabia_4,0.88,5,8,7,"[""historico""]"
+case_016,sabia_4,0.78,6,9,7,"[""via_aerea"", ""sinais_vitais""]"
+case_017,sabia_4,0.8,6,10,8,"[""choque"", ""sangramento""]"
+case_018,sabia_4,1.0,5,7,7,[]
+case_019,sabia_4,1.0,8,9,9,[]
+case_020,sabia_4,0.9,8,10,9,"[""via_aerea""]"
+case_021,sabia_4,1.0,5,9,9,[]
+case_022,sabia_4,0.8,8,10,8,"[""via_aerea"", ""estado_mental""]"
+case_023,sabia_4,0.78,6,9,7,"[""via_aerea"", ""sinais_vitais""]"
+case_024,sabia_4,0.83,7,12,10,"[""dor_peito_grave"", ""sangramento""]"
+case_025,sabia_4,0.89,6,9,8,"[""avc""]"
+case_026,sabia_4,0.9,5,10,9,"[""sinais_vitais""]"
+case_027,sabia_4,1.0,8,9,9,[]
+case_028,sabia_4,1.0,6,8,8,[]
+case_029,sabia_4,0.89,7,9,8,"[""sinais_vitais""]"
+case_030,sabia_4,0.7,6,10,7,"[""via_aerea"", ""choque"", ""estado_mental""]"
+case_031,sabia_4,1.0,8,8,8,[]
+case_032,sabia_4,0.64,6,11,7,"[""choque"", ""hipoglicemia"", ""intensidade_dor"", ""sinais_vitais""]"
+case_033,sabia_4,1.0,7,9,9,[]
+case_034,sabia_4,1.0,6,8,8,[]
+case_035,sabia_4,0.78,4,9,7,"[""choque"", ""sangramento""]"
+case_036,sabia_4,0.8,5,10,8,"[""intensidade_dor"", ""sinais_vitais""]"
+case_037,sabia_4,1.0,8,10,10,[]
+case_038,sabia_4,0.89,6,9,8,"[""sinais_vitais""]"
+case_039,sabia_4,0.86,5,7,6,"[""sangramento""]"
+case_040,sabia_4,0.88,5,8,7,"[""sinais_vitais""]"
+case_041,sabia_4,0.82,6,11,9,"[""avc"", ""sinais_vitais""]"
+case_042,sabia_4,1.0,6,9,9,[]
+case_043,sabia_4,0.91,8,11,10,"[""choque""]"
+case_044,sabia_4,1.0,8,9,9,[]
+case_045,sabia_4,1.0,6,7,7,[]
+case_046,sabia_4,1.0,4,7,7,[]
+case_047,sabia_4,0.89,5,9,8,"[""comportamento""]"
+case_048,sabia_4,0.89,5,9,8,"[""sinais_vitais""]"
+case_049,sabia_4,1.0,7,8,8,[]
+case_050,sabia_4,1.0,8,10,10,[]
+case_051,sabia_4,0.82,6,11,9,"[""choque"", ""sangramento""]"
+case_052,sabia_4,0.89,8,9,8,"[""sinais_vitais""]"
+case_053,sabia_4,0.78,6,9,7,"[""via_aerea"", ""sinais_vitais""]"
+case_054,sabia_4,0.71,6,7,5,"[""via_aerea"", ""sangramento""]"
+case_055,sabia_4,1.0,8,9,9,[]
+case_056,sabia_4,0.91,7,11,10,"[""dor_peito_grave""]"
+case_057,sabia_4,0.9,6,10,9,"[""via_aerea""]"
+case_058,sabia_4,0.78,6,9,7,"[""sangramento"", ""sinais_vitais""]"
+case_059,sabia_4,0.9,6,10,9,"[""sinais_vitais""]"
+case_060,sabia_4,0.9,5,10,9,"[""intensidade_dor""]"
+case_061,sabia_4,0.33,3,9,3,"[""intensidade_dor"", ""duracao"", ""febre"", ""sinais_vitais"", ""historico"", ""medicamentos""]"
+case_062,sabia_4,1.0,8,7,7,[]
+case_063,sabia_4,0.89,8,9,8,"[""dor_peito_grave""]"
+case_064,sabia_4,1.0,6,10,10,[]
+case_065,sabia_4,0.8,7,10,8,"[""estado_mental"", ""sinais_vitais""]"
+case_066,sabia_4,1.0,7,7,7,[]
+case_067,sabia_4,1.0,6,9,9,[]
+case_068,sabia_4,0.88,5,8,7,"[""sinais_vitais""]"
+case_069,sabia_4,1.0,8,9,9,[]
+case_070,sabia_4,0.88,5,8,7,"[""via_aerea""]"
+case_071,sabia_4,1.0,6,9,9,[]
+case_072,sabia_4,1.0,8,9,9,[]
+case_073,sabia_4,1.0,5,7,7,[]
+case_074,sabia_4,0.67,6,9,6,"[""avc"", ""estado_mental"", ""sinais_vitais""]"
+case_075,sabia_4,1.0,8,9,9,[]
+case_076,sabia_4,1.0,5,9,9,[]
+case_077,sabia_4,0.91,7,11,10,"[""sinais_vitais""]"
+case_078,sabia_4,0.89,5,9,8,"[""avc""]"
+case_079,sabia_4,0.9,7,10,9,"[""sinais_vitais""]"
+case_080,sabia_4,0.88,5,8,7,"[""intensidade_dor""]"
+case_081,sabia_4,1.0,4,8,8,[]
+case_082,sabia_4,0.89,5,9,8,"[""via_aerea""]"
+case_083,sabia_4,1.0,5,8,8,[]
+case_084,sabia_4,0.78,6,9,7,"[""intensidade_dor"", ""sinais_vitais""]"
+case_085,sabia_4,1.0,8,8,8,[]
+case_086,sabia_4,0.9,5,10,9,"[""via_aerea""]"
+case_087,sabia_4,0.29,2,7,2,"[""via_aerea"", ""sinais_vitais"", ""febre"", ""historico"", ""medicamentos""]"
+case_088,sabia_4,0.88,6,8,7,"[""sinais_vitais""]"
+case_089,sabia_4,0.7,4,10,7,"[""via_aerea"", ""dor_peito_grave"", ""sinais_vitais""]"
+case_090,sabia_4,1.0,7,8,8,[]
+case_091,sabia_4,0.89,8,9,8,"[""estado_mental""]"
+case_092,sabia_4,1.0,5,9,9,[]
+case_093,sabia_4,1.0,5,6,6,[]
+case_094,sabia_4,0.88,6,8,7,"[""sangramento""]"
+case_095,sabia_4,0.9,6,10,9,"[""intensidade_dor""]"
+case_096,sabia_4,0.75,5,8,6,"[""via_aerea"", ""sinais_vitais""]"
+case_097,sabia_4,0.89,8,9,8,"[""sinais_vitais""]"
+case_098,sabia_4,0.64,8,11,7,"[""choque"", ""intensidade_dor"", ""respiracao_moderada"", ""historico""]"
+case_099,sabia_4,0.75,4,8,6,"[""via_aerea"", ""sinais_vitais""]"
+case_100,sabia_4,0.9,8,10,9,"[""choque""]"
+case_001,gpt_5_4,0.82,8,11,9,"[""choque"", ""sinais_vitais""]"
+case_002,gpt_5_4,1.0,6,12,12,[]
+case_003,gpt_5_4,0.69,6,13,9,"[""via_aerea"", ""choque"", ""sangramento"", ""sinais_vitais""]"
+case_004,gpt_5_4,0.75,8,12,9,"[""avc"", ""sinais_vitais"", ""hipoglicemia""]"
+case_005,gpt_5_4,0.89,6,9,8,"[""avc""]"
+case_006,gpt_5_4,1.0,6,8,8,[]
+case_007,gpt_5_4,1.0,7,9,9,[]
+case_008,gpt_5_4,0.9,7,10,9,"[""avc""]"
+case_009,gpt_5_4,0.8,7,10,8,"[""choque"", ""estado_mental""]"
+case_010,gpt_5_4,0.89,6,9,8,"[""sinais_vitais""]"
+case_011,gpt_5_4,0.33,3,9,3,"[""via_aerea"", ""respiracao_moderada"", ""consciencia"", ""sinais_vitais"", ""historico"", ""medicamentos""]"
+case_012,gpt_5_4,1.0,6,8,8,[]
+case_013,gpt_5_4,1.0,6,7,7,[]
+case_014,gpt_5_4,0.38,3,8,3,"[""febre"", ""duracao"", ""sinais_vitais"", ""historico"", ""medicamentos""]"
+case_015,gpt_5_4,0.88,6,8,7,"[""sinais_vitais""]"
+case_016,gpt_5_4,0.91,7,11,10,"[""sinais_vitais""]"
+case_017,gpt_5_4,0.8,6,10,8,"[""choque"", ""sangramento""]"
+case_018,gpt_5_4,1.0,6,8,8,[]
+case_019,gpt_5_4,0.9,6,10,9,"[""choque""]"
+case_020,gpt_5_4,1.0,7,9,9,[]
+case_021,gpt_5_4,1.0,6,7,7,[]
+case_022,gpt_5_4,1.0,5,9,9,[]
+case_023,gpt_5_4,0.78,6,9,7,"[""via_aerea"", ""sinais_vitais""]"
+case_024,gpt_5_4,0.8,7,10,8,"[""via_aerea"", ""sinais_vitais""]"
+case_025,gpt_5_4,0.9,6,10,9,"[""avc""]"
+case_026,gpt_5_4,0.88,7,8,7,"[""estado_mental""]"
+case_027,gpt_5_4,1.0,6,8,8,[]
+case_028,gpt_5_4,1.0,6,9,9,[]
+case_029,gpt_5_4,0.9,8,10,9,"[""sinais_vitais""]"
+case_030,gpt_5_4,0.89,6,9,8,"[""estado_mental""]"
+case_031,gpt_5_4,1.0,7,8,8,[]
+case_032,gpt_5_4,1.0,7,10,10,[]
+case_033,gpt_5_4,1.0,6,10,10,[]
+case_034,gpt_5_4,1.0,7,10,10,[]
+case_035,gpt_5_4,0.89,6,9,8,"[""sangramento""]"
+case_036,gpt_5_4,0.9,7,10,9,"[""sinais_vitais""]"
+case_037,gpt_5_4,1.0,8,10,10,[]
+case_038,gpt_5_4,0.78,7,9,7,"[""choque"", ""sinais_vitais""]"
+case_039,gpt_5_4,0.78,6,9,7,"[""choque"", ""sangramento""]"
+case_040,gpt_5_4,0.78,6,9,7,"[""via_aerea"", ""sinais_vitais""]"
+case_041,gpt_5_4,0.4,3,10,4,"[""avc"", ""duracao"", ""febre"", ""sinais_vitais"", ""medicamentos"", ""historico""]"
+case_042,gpt_5_4,1.0,6,9,9,[]
+case_043,gpt_5_4,0.36,3,11,4,"[""choque"", ""hipoglicemia"", ""duracao"", ""medicamentos"", ""febre"", ""sinais_vitais"", ""historico""]"
+case_044,gpt_5_4,1.0,7,9,9,[]
+case_045,gpt_5_4,1.0,7,9,9,[]
+case_046,gpt_5_4,0.91,7,11,10,"[""sinais_vitais""]"
+case_047,gpt_5_4,0.8,7,10,8,"[""choque"", ""sangramento""]"
+case_048,gpt_5_4,0.9,6,10,9,"[""via_aerea""]"
+case_049,gpt_5_4,0.88,8,8,7,"[""sinais_vitais""]"
+case_050,gpt_5_4,0.9,6,10,9,"[""choque""]"
+case_051,gpt_5_4,0.8,5,10,8,"[""choque"", ""sangramento""]"
+case_052,gpt_5_4,0.75,8,12,9,"[""choque"", ""hipoglicemia"", ""sinais_vitais""]"
+case_053,gpt_5_4,1.0,7,9,9,[]
+case_054,gpt_5_4,0.88,6,8,7,"[""sangramento""]"
+case_055,gpt_5_4,1.0,7,10,10,[]
+case_056,gpt_5_4,1.0,7,10,10,[]
+case_057,gpt_5_4,0.9,7,10,9,"[""sinais_vitais""]"
+case_058,gpt_5_4,0.78,7,9,7,"[""choque"", ""sangramento""]"
+case_059,gpt_5_4,1.0,7,9,9,[]
+case_060,gpt_5_4,0.89,5,9,8,"[""duracao""]"
+case_061,gpt_5_4,0.88,8,8,7,"[""sinais_vitais""]"
+case_062,gpt_5_4,1.0,7,8,8,[]
+case_063,gpt_5_4,0.8,6,10,8,"[""dor_peito_grave"", ""sinais_vitais""]"
+case_064,gpt_5_4,0.78,6,9,7,"[""via_aerea"", ""sangramento""]"
+case_065,gpt_5_4,0.88,8,8,7,"[""sinais_vitais""]"
+case_066,gpt_5_4,1.0,7,7,7,[]
+case_067,gpt_5_4,1.0,6,8,8,[]
+case_068,gpt_5_4,0.88,6,8,7,"[""sinais_vitais""]"
+case_069,gpt_5_4,0.9,8,10,9,"[""sinais_vitais""]"
+case_070,gpt_5_4,1.0,7,9,9,[]
+case_071,gpt_5_4,0.9,7,10,9,"[""sinais_vitais""]"
+case_072,gpt_5_4,0.7,8,10,7,"[""choque"", ""estado_mental"", ""sinais_vitais""]"
+case_073,gpt_5_4,0.86,7,7,6,"[""sangramento""]"
+case_074,gpt_5_4,0.73,7,11,8,"[""choque"", ""intensidade_dor"", ""sinais_vitais""]"
+case_075,gpt_5_4,0.89,8,9,8,"[""intensidade_dor""]"
+case_076,gpt_5_4,1.0,6,8,8,[]
+case_077,gpt_5_4,1.0,6,9,9,[]
+case_078,gpt_5_4,1.0,7,10,10,[]
+case_079,gpt_5_4,0.8,8,10,8,"[""choque"", ""sinais_vitais""]"
+case_080,gpt_5_4,0.88,6,8,7,"[""sinais_vitais""]"
+case_081,gpt_5_4,1.0,6,10,10,[]
+case_082,gpt_5_4,1.0,6,10,10,[]
+case_083,gpt_5_4,1.0,6,8,8,[]
+case_084,gpt_5_4,0.11,2,9,1,"[""consciencia"", ""choque"", ""intensidade_dor"", ""duracao"", ""febre"", ""sinais_vitais"", ""historico"", ""medicamentos""]"
+case_085,gpt_5_4,0.89,7,9,8,"[""respiracao_moderada""]"
+case_086,gpt_5_4,1.0,7,9,9,[]
+case_087,gpt_5_4,0.43,3,7,3,"[""sinais_vitais"", ""febre"", ""historico"", ""medicamentos""]"
+case_088,gpt_5_4,0.67,6,9,6,"[""via_aerea"", ""sinais_vitais"", ""historico""]"
+case_089,gpt_5_4,0.73,7,11,8,"[""dor_peito_grave"", ""choque"", ""sinais_vitais""]"
+case_090,gpt_5_4,1.0,7,7,7,[]
+case_091,gpt_5_4,0.88,8,8,7,"[""sinais_vitais""]"
+case_092,gpt_5_4,1.0,7,8,8,[]
+case_093,gpt_5_4,1.0,7,8,8,[]
+case_094,gpt_5_4,1.0,7,8,8,[]
+case_095,gpt_5_4,0.8,8,10,8,"[""intensidade_dor"", ""sinais_vitais""]"
+case_096,gpt_5_4,0.9,7,10,9,"[""sinais_vitais""]"
+case_097,gpt_5_4,0.89,7,9,8,"[""historico""]"
+case_098,gpt_5_4,1.0,6,9,9,[]
+case_099,gpt_5_4,0.89,7,9,8,"[""sinais_vitais""]"
+case_100,gpt_5_4,0.89,6,9,8,"[""choque""]"
+case_001,gpt_5_4_mini,0.64,5,11,7,"[""choque"", ""dor_peito_grave"", ""estado_mental"", ""sinais_vitais""]"
+case_002,gpt_5_4_mini,0.56,4,9,5,"[""duracao"", ""medicamentos"", ""febre"", ""historico""]"
+case_003,gpt_5_4_mini,0.77,7,13,10,"[""choque"", ""estado_mental"", ""sinais_vitais""]"
+case_004,gpt_5_4_mini,0.82,8,11,9,"[""hipoglicemia"", ""sinais_vitais""]"
+case_005,gpt_5_4_mini,1.0,5,9,9,[]
+case_006,gpt_5_4_mini,1.0,6,9,9,[]
+case_007,gpt_5_4_mini,1.0,6,10,10,[]
+case_008,gpt_5_4_mini,0.69,5,13,9,"[""dor_peito_grave"", ""avc"", ""respiracao_moderada"", ""sinais_vitais""]"
+case_009,gpt_5_4_mini,0.9,5,10,9,"[""choque""]"
+case_010,gpt_5_4_mini,0.67,5,9,6,"[""intensidade_dor"", ""sinais_vitais"", ""alergia_grave""]"
+case_011,gpt_5_4_mini,1.0,5,9,9,[]
+case_012,gpt_5_4_mini,1.0,5,10,10,[]
+case_013,gpt_5_4_mini,1.0,5,9,9,[]
+case_014,gpt_5_4_mini,0.8,6,10,8,"[""sinais_vitais"", ""historico""]"
+case_015,gpt_5_4_mini,0.88,5,8,7,"[""sinais_vitais""]"
+case_016,gpt_5_4_mini,0.73,5,11,8,"[""via_aerea"", ""sinais_vitais"", ""hipoglicemia""]"
+case_017,gpt_5_4_mini,0.89,6,9,8,"[""sinais_vitais""]"
+case_018,gpt_5_4_mini,1.0,5,9,9,[]
+case_019,gpt_5_4_mini,0.89,6,9,8,"[""choque""]"
+case_020,gpt_5_4_mini,1.0,5,9,9,[]
+case_021,gpt_5_4_mini,1.0,6,9,9,[]
+case_022,gpt_5_4_mini,0.89,5,9,8,"[""via_aerea""]"
+case_023,gpt_5_4_mini,0.9,6,10,9,"[""sinais_vitais""]"
+case_024,gpt_5_4_mini,0.75,6,12,9,"[""intensidade_dor"", ""sinais_vitais"", ""historico""]"
+case_025,gpt_5_4_mini,1.0,5,8,8,[]
+case_026,gpt_5_4_mini,1.0,5,9,9,[]
+case_027,gpt_5_4_mini,1.0,5,9,9,[]
+case_028,gpt_5_4_mini,1.0,5,9,9,[]
+case_029,gpt_5_4_mini,0.9,6,10,9,"[""sinais_vitais""]"
+case_030,gpt_5_4_mini,0.8,5,10,8,"[""choque"", ""sangramento""]"
+case_031,gpt_5_4_mini,1.0,5,9,9,[]
+case_032,gpt_5_4_mini,0.83,5,12,10,"[""choque"", ""sinais_vitais""]"
+case_033,gpt_5_4_mini,1.0,5,9,9,[]
+case_034,gpt_5_4_mini,0.89,5,9,8,"[""respiracao_moderada""]"
+case_035,gpt_5_4_mini,0.78,5,9,7,"[""sangramento"", ""sinais_vitais""]"
+case_036,gpt_5_4_mini,0.89,7,9,8,"[""sinais_vitais""]"
+case_037,gpt_5_4_mini,0.82,6,11,9,"[""hipoglicemia"", ""sinais_vitais""]"
+case_038,gpt_5_4_mini,0.88,5,8,7,"[""choque""]"
+case_039,gpt_5_4_mini,0.88,5,8,7,"[""sangramento""]"
+case_040,gpt_5_4_mini,1.0,5,9,9,[]
+case_041,gpt_5_4_mini,0.9,5,10,9,"[""sinais_vitais""]"
+case_042,gpt_5_4_mini,1.0,5,8,8,[]
+case_043,gpt_5_4_mini,0.75,8,12,9,"[""via_aerea"", ""choque"", ""sinais_vitais""]"
+case_044,gpt_5_4_mini,1.0,5,7,7,[]
+case_045,gpt_5_4_mini,1.0,6,8,8,[]
+case_046,gpt_5_4_mini,1.0,5,10,10,[]
+case_047,gpt_5_4_mini,0.89,6,9,8,"[""estado_mental""]"
+case_048,gpt_5_4_mini,1.0,7,9,9,[]
+case_049,gpt_5_4_mini,1.0,7,8,8,[]
+case_050,gpt_5_4_mini,0.89,6,9,8,"[""choque""]"
+case_051,gpt_5_4_mini,0.88,5,8,7,"[""sangramento""]"
+case_052,gpt_5_4_mini,0.82,8,11,9,"[""choque"", ""sinais_vitais""]"
+case_053,gpt_5_4_mini,1.0,6,12,12,[]
+case_054,gpt_5_4_mini,0.75,5,8,6,"[""sangramento"", ""historico""]"
+case_055,gpt_5_4_mini,1.0,4,9,9,[]
+case_056,gpt_5_4_mini,1.0,7,9,9,[]
+case_057,gpt_5_4_mini,1.0,7,10,10,[]
+case_058,gpt_5_4_mini,0.89,6,9,8,"[""sinais_vitais""]"
+case_059,gpt_5_4_mini,1.0,6,8,8,[]
+case_060,gpt_5_4_mini,0.9,6,10,9,"[""intensidade_dor""]"
+case_061,gpt_5_4_mini,0.89,5,9,8,"[""sinais_vitais""]"
+case_062,gpt_5_4_mini,0.8,5,10,8,"[""intensidade_dor"", ""sinais_vitais""]"
+case_063,gpt_5_4_mini,0.9,6,10,9,"[""sinais_vitais""]"
+case_064,gpt_5_4_mini,0.8,7,10,8,"[""via_aerea"", ""sangramento""]"
+case_065,gpt_5_4_mini,1.0,6,8,8,[]
+case_066,gpt_5_4_mini,0.89,5,9,8,"[""estado_mental""]"
+case_067,gpt_5_4_mini,1.0,6,7,7,[]
+case_068,gpt_5_4_mini,0.38,3,8,3,"[""duracao"", ""febre"", ""sinais_vitais"", ""historico"", ""medicamentos""]"
+case_069,gpt_5_4_mini,0.89,6,9,8,"[""sinais_vitais""]"
+case_070,gpt_5_4_mini,1.0,5,7,7,[]
+case_071,gpt_5_4_mini,0.8,5,10,8,"[""dor_peito_grave"", ""sinais_vitais""]"
+case_072,gpt_5_4_mini,0.7,7,10,7,"[""choque"", ""hipoglicemia"", ""estado_mental""]"
+case_073,gpt_5_4_mini,0.4,3,5,2,"[""duracao"", ""medicamentos"", ""historico""]"
+case_074,gpt_5_4_mini,0.8,5,10,8,"[""intensidade_dor"", ""sinais_vitais""]"
+case_075,gpt_5_4_mini,0.89,5,9,8,"[""sinais_vitais""]"
+case_076,gpt_5_4_mini,0.9,7,10,9,"[""intensidade_dor""]"
+case_077,gpt_5_4_mini,1.0,5,9,9,[]
+case_078,gpt_5_4_mini,1.0,5,8,8,[]
+case_079,gpt_5_4_mini,0.82,6,11,9,"[""choque"", ""sinais_vitais""]"
+case_080,gpt_5_4_mini,0.9,5,10,9,"[""intensidade_dor""]"
+case_081,gpt_5_4_mini,0.88,6,8,7,"[""intensidade_dor""]"
+case_082,gpt_5_4_mini,0.89,5,9,8,"[""sinais_vitais""]"
+case_083,gpt_5_4_mini,1.0,5,9,9,[]
+case_084,gpt_5_4_mini,0.64,4,11,7,"[""consciencia"", ""choque"", ""estado_mental"", ""sinais_vitais""]"
+case_085,gpt_5_4_mini,1.0,5,7,7,[]
+case_086,gpt_5_4_mini,0.89,6,9,8,"[""sinais_vitais""]"
+case_087,gpt_5_4_mini,0.57,2,7,4,"[""sinais_vitais"", ""medicamentos"", ""febre""]"
+case_088,gpt_5_4_mini,0.89,5,9,8,"[""sinais_vitais""]"
+case_089,gpt_5_4_mini,0.8,6,10,8,"[""via_aerea"", ""dor_peito_grave""]"
+case_090,gpt_5_4_mini,0.86,5,7,6,"[""historico""]"
+case_091,gpt_5_4_mini,1.0,5,7,7,[]
+case_092,gpt_5_4_mini,1.0,6,9,9,[]
+case_093,gpt_5_4_mini,1.0,5,6,6,[]
+case_094,gpt_5_4_mini,0.86,5,7,6,"[""estado_mental""]"
+case_095,gpt_5_4_mini,0.8,6,10,8,"[""consciencia"", ""sinais_vitais""]"
+case_096,gpt_5_4_mini,0.89,7,9,8,"[""sinais_vitais""]"
+case_097,gpt_5_4_mini,0.78,5,9,7,"[""intensidade_dor"", ""sinais_vitais""]"
+case_098,gpt_5_4_mini,0.8,8,10,8,"[""consciencia"", ""sinais_vitais""]"
+case_099,gpt_5_4_mini,1.0,6,8,8,[]
+case_100,gpt_5_4_mini,0.89,5,9,8,"[""via_aerea""]"
+case_001,claude_haiku4_5,0.64,8,11,7,"[""choque"", ""intensidade_dor"", ""historico"", ""estado_mental""]"
+case_002,claude_haiku4_5,0.6,6,10,6,"[""consciencia"", ""alergia_grave"", ""angioedema"", ""historico""]"
+case_003,claude_haiku4_5,0.2,2,10,2,"[""choque"", ""avc"", ""hipoglicemia"", ""intensidade_dor"", ""duracao"", ""medicamentos"", ""sinais_vitais"", ""historico""]"
+case_004,claude_haiku4_5,0.42,6,12,5,"[""consciencia"", ""avc"", ""duracao"", ""medicamentos"", ""febre"", ""sinais_vitais"", ""historico""]"
+case_005,claude_haiku4_5,1.0,8,10,10,[]
+case_006,claude_haiku4_5,1.0,7,8,8,[]
+case_007,claude_haiku4_5,1.0,6,9,9,[]
+case_008,claude_haiku4_5,0.67,7,12,8,"[""via_aerea"", ""dor_peito_grave"", ""avc"", ""duracao""]"
+case_009,claude_haiku4_5,1.0,8,8,8,[]
+case_010,claude_haiku4_5,0.8,8,10,8,"[""alergia_grave"", ""angioedema""]"
+case_011,claude_haiku4_5,1.0,8,9,9,[]
+case_012,claude_haiku4_5,0.9,8,10,9,"[""avc""]"
+case_013,claude_haiku4_5,0.71,6,7,5,"[""consciencia"", ""sinais_vitais""]"
+case_014,claude_haiku4_5,0.88,5,8,7,"[""historico""]"
+case_015,claude_haiku4_5,1.0,7,7,7,[]
+case_016,claude_haiku4_5,0.8,8,10,8,"[""via_aerea"", ""sinais_vitais""]"
+case_017,claude_haiku4_5,0.75,7,8,6,"[""duracao"", ""sinais_vitais""]"
+case_018,claude_haiku4_5,0.86,6,7,6,"[""sangramento""]"
+case_019,claude_haiku4_5,1.0,7,8,8,[]
+case_020,claude_haiku4_5,0.89,7,9,8,"[""estado_mental""]"
+case_021,claude_haiku4_5,0.86,6,7,6,"[""duracao""]"
+case_022,claude_haiku4_5,0.9,8,10,9,"[""sinais_vitais""]"
+case_023,claude_haiku4_5,0.88,5,8,7,"[""sinais_vitais""]"
+case_024,claude_haiku4_5,0.83,8,12,10,"[""consciencia"", ""intensidade_dor""]"
+case_025,claude_haiku4_5,0.55,6,11,6,"[""via_aerea"", ""consciencia"", ""avc"", ""estado_mental"", ""duracao""]"
+case_026,claude_haiku4_5,0.78,8,9,7,"[""consciencia"", ""estado_mental""]"
+case_027,claude_haiku4_5,1.0,7,8,8,[]
+case_028,claude_haiku4_5,0.88,8,8,7,"[""sinais_vitais""]"
+case_029,claude_haiku4_5,1.0,5,8,8,[]
+case_030,claude_haiku4_5,0.89,8,9,8,"[""estado_mental""]"
+case_031,claude_haiku4_5,1.0,5,7,7,[]
+case_032,claude_haiku4_5,0.67,8,9,6,"[""hipoglicemia"", ""estado_mental"", ""sinais_vitais""]"
+case_033,claude_haiku4_5,1.0,7,10,10,[]
+case_034,claude_haiku4_5,1.0,8,9,9,[]
+case_035,claude_haiku4_5,0.75,6,8,6,"[""sinais_vitais"", ""choque""]"
+case_036,claude_haiku4_5,0.78,8,9,7,"[""dor_peito_grave"", ""intensidade_dor""]"
+case_037,claude_haiku4_5,0.77,8,13,10,"[""hipoglicemia"", ""imunossuprimido"", ""estado_mental""]"
+case_038,claude_haiku4_5,0.9,8,10,9,"[""hipoglicemia""]"
+case_039,claude_haiku4_5,0.86,5,7,6,"[""sangramento""]"
+case_040,claude_haiku4_5,0.89,8,9,8,"[""duracao""]"
+case_041,claude_haiku4_5,0.91,6,11,10,"[""avc""]"
+case_042,claude_haiku4_5,0.78,6,9,7,"[""via_aerea"", ""duracao""]"
+case_043,claude_haiku4_5,0.8,7,10,8,"[""consciencia"", ""sinais_vitais""]"
+case_044,claude_haiku4_5,0.86,8,7,6,"[""intensidade_dor""]"
+case_045,claude_haiku4_5,0.86,6,7,6,"[""sinais_vitais""]"
+case_046,claude_haiku4_5,1.0,5,8,8,[]
+case_047,claude_haiku4_5,0.78,6,9,7,"[""dor_peito_grave"", ""sinais_vitais""]"
+case_048,claude_haiku4_5,0.91,8,11,10,"[""alergia_grave""]"
+case_049,claude_haiku4_5,0.86,8,7,6,"[""sinais_vitais""]"
+case_050,claude_haiku4_5,0.7,8,10,7,"[""choque"", ""estado_mental"", ""historico""]"
+case_051,claude_haiku4_5,0.88,8,8,7,"[""estado_mental""]"
+case_052,claude_haiku4_5,0.45,8,11,5,"[""consciencia"", ""choque"", ""avc"", ""estado_mental"", ""sinais_vitais"", ""historico""]"
+case_053,claude_haiku4_5,0.75,6,8,6,"[""historico"", ""sinais_vitais""]"
+case_054,claude_haiku4_5,0.75,6,8,6,"[""sangramento"", ""historico""]"
+case_055,claude_haiku4_5,0.88,8,8,7,"[""via_aerea""]"
+case_056,claude_haiku4_5,1.0,8,9,9,[]
+case_057,claude_haiku4_5,1.0,7,8,8,[]
+case_058,claude_haiku4_5,0.9,8,10,9,"[""estado_mental""]"
+case_059,claude_haiku4_5,1.0,7,8,8,[]
+case_060,claude_haiku4_5,0.56,6,9,5,"[""consciencia"", ""intensidade_dor"", ""historico"", ""medicamentos""]"
+case_061,claude_haiku4_5,1.0,4,7,7,[]
+case_062,claude_haiku4_5,0.88,8,8,7,"[""historico""]"
+case_063,claude_haiku4_5,0.88,6,8,7,"[""dor_peito_grave""]"
+case_064,claude_haiku4_5,0.8,8,10,8,"[""consciencia"", ""choque""]"
+case_065,claude_haiku4_5,0.8,8,10,8,"[""alergia_grave"", ""sinais_vitais""]"
+case_066,claude_haiku4_5,1.0,6,7,7,[]
+case_067,claude_haiku4_5,1.0,7,9,9,[]
+case_068,claude_haiku4_5,0.56,4,9,5,"[""consciencia"", ""intensidade_dor"", ""historico"", ""medicamentos""]"
+case_069,claude_haiku4_5,0.88,6,8,7,"[""sinais_vitais""]"
+case_070,claude_haiku4_5,0.78,6,9,7,"[""intensidade_dor"", ""historico""]"
+case_071,claude_haiku4_5,0.9,8,10,9,"[""imunossuprimido""]"
+case_072,claude_haiku4_5,0.78,8,9,7,"[""intensidade_dor"", ""estado_mental""]"
+case_073,claude_haiku4_5,1.0,7,7,7,[]
+case_074,claude_haiku4_5,0.8,8,10,8,"[""avc"", ""sinais_vitais""]"
+case_075,claude_haiku4_5,1.0,7,7,7,[]
+case_076,claude_haiku4_5,0.88,6,8,7,"[""historico""]"
+case_077,claude_haiku4_5,0.67,6,9,6,"[""consciencia"", ""choque"", ""historico""]"
+case_078,claude_haiku4_5,0.63,7,8,5,"[""consciencia"", ""estado_mental"", ""historico""]"
+case_079,claude_haiku4_5,0.7,8,10,7,"[""choque"", ""estado_mental"", ""sinais_vitais""]"
+case_080,claude_haiku4_5,0.88,5,8,7,"[""sinais_vitais""]"
+case_081,claude_haiku4_5,0.88,4,8,7,"[""historico""]"
+case_082,claude_haiku4_5,0.7,7,10,7,"[""via_aerea"", ""estado_mental"", ""sinais_vitais""]"
+case_083,claude_haiku4_5,1.0,6,7,7,[]
+case_084,claude_haiku4_5,0.8,8,10,8,"[""intensidade_dor"", ""historico""]"
+case_085,claude_haiku4_5,1.0,8,8,8,[]
+case_086,claude_haiku4_5,0.89,6,9,8,"[""sinais_vitais""]"
+case_087,claude_haiku4_5,0.89,5,9,8,"[""intensidade_dor""]"
+case_088,claude_haiku4_5,0.88,6,8,7,"[""intensidade_dor""]"
+case_089,claude_haiku4_5,0.91,8,11,10,"[""choque""]"
+case_090,claude_haiku4_5,1.0,6,8,8,[]
+case_091,claude_haiku4_5,0.4,8,10,4,"[""via_aerea"", ""consciencia"", ""respiracao_moderada"", ""intensidade_dor"", ""historico"", ""medicamentos""]"
+case_092,claude_haiku4_5,0.88,7,8,7,"[""historico""]"
+case_093,claude_haiku4_5,1.0,6,6,6,[]
+case_094,claude_haiku4_5,1.0,6,6,6,[]
+case_095,claude_haiku4_5,1.0,7,8,8,[]
+case_096,claude_haiku4_5,0.89,8,9,8,"[""sinais_vitais""]"
+case_097,claude_haiku4_5,1.0,6,8,8,[]
+case_098,claude_haiku4_5,0.5,4,8,4,"[""via_aerea"", ""sinais_vitais"", ""historico"", ""imunossuprimido""]"
+case_099,claude_haiku4_5,0.55,6,11,6,"[""consciencia"", ""alergia_grave"", ""intensidade_dor"", ""historico"", ""medicamentos""]"
+case_100,claude_haiku4_5,0.8,8,10,8,"[""choque"", ""historico""]"
+case_001,sabiazinho_4,0.73,6,11,8,"[""choque"", ""dor_peito_grave"", ""sinais_vitais""]"
+case_002,sabiazinho_4,1.0,7,8,8,[]
+case_003,sabiazinho_4,0.64,8,14,9,"[""via_aerea"", ""choque"", ""sangramento"", ""duracao"", ""sinais_vitais""]"
+case_004,sabiazinho_4,0.7,8,10,7,"[""avc"", ""hipoglicemia"", ""sinais_vitais""]"
+case_005,sabiazinho_4,0.89,7,9,8,"[""estado_mental""]"
+case_006,sabiazinho_4,1.0,8,8,8,[]
+case_007,sabiazinho_4,1.0,6,10,10,[]
+case_008,sabiazinho_4,0.91,8,11,10,"[""sinais_vitais""]"
+case_009,sabiazinho_4,0.89,8,9,8,"[""sinais_vitais""]"
+case_010,sabiazinho_4,0.89,8,9,8,"[""sinais_vitais""]"
+case_011,sabiazinho_4,0.86,8,7,6,"[""historico""]"
+case_012,sabiazinho_4,0.89,8,9,8,"[""via_aerea""]"
+case_013,sabiazinho_4,1.0,5,7,7,[]
+case_014,sabiazinho_4,1.0,8,8,8,[]
+case_015,sabiazinho_4,0.88,8,8,7,"[""intensidade_dor""]"
+case_016,sabiazinho_4,1.0,8,10,10,[]
+case_017,sabiazinho_4,0.89,8,9,8,"[""choque""]"
+case_018,sabiazinho_4,1.0,6,8,8,[]
+case_019,sabiazinho_4,0.8,8,10,8,"[""choque"", ""sinais_vitais""]"
+case_020,sabiazinho_4,1.0,5,9,9,[]
+case_021,sabiazinho_4,1.0,5,7,7,[]
+case_022,sabiazinho_4,0.89,8,9,8,"[""sinais_vitais""]"
+case_023,sabiazinho_4,0.88,6,8,7,"[""intensidade_dor""]"
+case_024,sabiazinho_4,1.0,8,11,11,[]
+case_025,sabiazinho_4,0.78,8,9,7,"[""estado_mental"", ""sinais_vitais""]"
+case_026,sabiazinho_4,0.78,8,9,7,"[""estado_mental"", ""sinais_vitais""]"
+case_027,sabiazinho_4,1.0,8,8,8,[]
+case_028,sabiazinho_4,1.0,8,8,8,[]
+case_029,sabiazinho_4,0.9,8,10,9,"[""intensidade_dor""]"
+case_030,sabiazinho_4,0.7,8,10,7,"[""choque"", ""hipoglicemia"", ""estado_mental""]"
+case_031,sabiazinho_4,1.0,7,7,7,[]
+case_032,sabiazinho_4,0.67,8,12,8,"[""via_aerea"", ""choque"", ""estado_mental"", ""sinais_vitais""]"
+case_033,sabiazinho_4,0.88,8,8,7,"[""sinais_vitais""]"
+case_034,sabiazinho_4,0.9,8,10,9,"[""sinais_vitais""]"
+case_035,sabiazinho_4,0.8,8,10,8,"[""choque"", ""estado_mental""]"
+case_036,sabiazinho_4,0.7,8,10,7,"[""intensidade_dor"", ""sinais_vitais"", ""estado_mental""]"
+case_037,sabiazinho_4,0.88,8,8,7,"[""sinais_vitais""]"
+case_038,sabiazinho_4,0.7,8,10,7,"[""via_aerea"", ""choque"", ""sinais_vitais""]"
+case_039,sabiazinho_4,0.83,8,6,5,"[""sangramento""]"
+case_040,sabiazinho_4,0.75,8,12,9,"[""intensidade_dor"", ""hipoglicemia"", ""estado_mental""]"
+case_041,sabiazinho_4,1.0,7,9,9,[]
+case_042,sabiazinho_4,1.0,8,8,8,[]
+case_043,sabiazinho_4,0.75,8,12,9,"[""choque"", ""hipoglicemia"", ""estado_mental""]"
+case_044,sabiazinho_4,0.89,8,9,8,"[""intensidade_dor""]"
+case_045,sabiazinho_4,1.0,6,8,8,[]
+case_046,sabiazinho_4,0.86,5,7,6,"[""historico""]"
+case_047,sabiazinho_4,0.9,8,10,9,"[""choque""]"
+case_048,sabiazinho_4,1.0,8,9,9,[]
+case_049,sabiazinho_4,0.88,8,8,7,"[""sinais_vitais""]"
+case_050,sabiazinho_4,0.7,7,10,7,"[""via_aerea"", ""choque"", ""estado_mental""]"
+case_051,sabiazinho_4,0.9,8,10,9,"[""choque""]"
+case_052,sabiazinho_4,0.73,8,11,8,"[""via_aerea"", ""choque"", ""estado_mental""]"
+case_053,sabiazinho_4,1.0,6,9,9,[]
+case_054,sabiazinho_4,0.86,7,7,6,"[""sangramento""]"
+case_055,sabiazinho_4,1.0,8,8,8,[]
+case_056,sabiazinho_4,0.89,6,9,8,"[""sinais_vitais""]"
+case_057,sabiazinho_4,0.9,8,10,9,"[""consciencia""]"
+case_058,sabiazinho_4,0.9,8,10,9,"[""sinais_vitais""]"
+case_059,sabiazinho_4,0.8,8,10,8,"[""historico"", ""sinais_vitais""]"
+case_060,sabiazinho_4,0.9,7,10,9,"[""intensidade_dor""]"
+case_061,sabiazinho_4,1.0,5,10,10,[]
+case_062,sabiazinho_4,1.0,8,7,7,[]
+case_063,sabiazinho_4,1.0,8,9,9,[]
+case_064,sabiazinho_4,0.9,6,10,9,"[""intensidade_dor""]"
+case_065,sabiazinho_4,1.0,8,7,7,[]
+case_066,sabiazinho_4,1.0,8,7,7,[]
+case_067,sabiazinho_4,1.0,5,8,8,[]
+case_068,sabiazinho_4,0.88,8,8,7,"[""historico""]"
+case_069,sabiazinho_4,0.9,8,10,9,"[""sinais_vitais""]"
+case_070,sabiazinho_4,1.0,8,8,8,[]
+case_071,sabiazinho_4,0.89,8,9,8,"[""estado_mental""]"
+case_072,sabiazinho_4,0.8,8,10,8,"[""choque"", ""sinais_vitais""]"
+case_073,sabiazinho_4,0.88,8,8,7,"[""estado_mental""]"
+case_074,sabiazinho_4,0.9,6,10,9,"[""choque""]"
+case_075,sabiazinho_4,1.0,8,9,9,[]
+case_076,sabiazinho_4,0.67,8,9,6,"[""intensidade_dor"", ""historico"", ""medicamentos""]"
+case_077,sabiazinho_4,0.8,8,10,8,"[""consciencia"", ""sinais_vitais""]"
+case_078,sabiazinho_4,1.0,8,9,9,[]
+case_079,sabiazinho_4,1.0,6,10,10,[]
+case_080,sabiazinho_4,0.89,6,9,8,"[""sinais_vitais""]"
+case_081,sabiazinho_4,1.0,8,8,8,[]
+case_082,sabiazinho_4,0.89,8,9,8,"[""avc""]"
+case_083,sabiazinho_4,1.0,8,9,9,[]
+case_084,sabiazinho_4,0.75,8,8,6,"[""consciencia"", ""intensidade_dor""]"
+case_085,sabiazinho_4,0.78,8,9,7,"[""alergia_grave"", ""angioedema""]"
+case_086,sabiazinho_4,0.89,8,9,8,"[""sinais_vitais""]"
+case_087,sabiazinho_4,0.9,8,10,9,"[""sinais_vitais""]"
+case_088,sabiazinho_4,0.89,7,9,8,"[""sinais_vitais""]"
+case_089,sabiazinho_4,0.83,8,12,10,"[""choque"", ""medicamentos""]"
+case_090,sabiazinho_4,1.0,8,8,8,[]
+case_091,sabiazinho_4,0.75,8,8,6,"[""historico"", ""medicamentos""]"
+case_092,sabiazinho_4,1.0,8,9,9,[]
+case_093,sabiazinho_4,1.0,5,7,7,[]
+case_094,sabiazinho_4,0.71,8,7,5,"[""via_aerea"", ""consciencia""]"
+case_095,sabiazinho_4,0.89,7,9,8,"[""historico""]"
+case_096,sabiazinho_4,1.0,8,9,9,[]
+case_097,sabiazinho_4,0.88,8,8,7,"[""sinais_vitais""]"
+case_098,sabiazinho_4,0.75,7,8,6,"[""sinais_vitais"", ""historico""]"
+case_099,sabiazinho_4,0.78,8,9,7,"[""intensidade_dor"", ""sinais_vitais""]"
+case_100,sabiazinho_4,0.9,8,10,9,"[""historico""]"
+case_001,gpt_5_5,0.64,8,11,7,"[""choque"", ""intensidade_dor"", ""estado_mental"", ""sinais_vitais""]"
+case_002,gpt_5_5,0.44,3,9,4,"[""duracao"", ""medicamentos"", ""historico"", ""sinais_vitais"", ""estado_mental""]"
+case_003,gpt_5_5,0.0,1,10,0,"[""consciencia"", ""choque"", ""avc"", ""dor_peito_grave"", ""hipoglicemia"", ""duracao"", ""medicamentos"", ""historico"", ""sinais_vitais"", ""estado_mental""]"
+case_004,gpt_5_5,0.42,8,12,5,"[""choque"", ""avc"", ""hipoglicemia"", ""sinais_vitais"", ""duracao"", ""medicamentos"", ""intensidade_dor""]"
+case_005,gpt_5_5,1.0,7,9,9,[]
+case_006,gpt_5_5,0.88,6,8,7,"[""duracao""]"
+case_007,gpt_5_5,1.0,7,10,10,[]
+case_008,gpt_5_5,0.91,8,11,10,"[""avc""]"
+case_009,gpt_5_5,0.9,7,10,9,"[""choque""]"
+case_010,gpt_5_5,1.0,7,8,8,[]
+case_011,gpt_5_5,0.88,8,8,7,"[""historico""]"
+case_012,gpt_5_5,1.0,7,9,9,[]
+case_013,gpt_5_5,0.75,6,8,6,"[""duracao"", ""sinais_vitais""]"
+case_014,gpt_5_5,0.0,1,8,0,"[""via_aerea"", ""respiracao_moderada"", ""sinais_vitais"", ""febre"", ""duracao"", ""consciencia"", ""historico"", ""medicamentos""]"
+case_015,gpt_5_5,0.75,6,8,6,"[""via_aerea"", ""sinais_vitais""]"
+case_016,gpt_5_5,0.9,7,10,9,"[""sinais_vitais""]"
+case_017,gpt_5_5,0.89,8,9,8,"[""sangramento""]"
+case_018,gpt_5_5,1.0,7,8,8,[]
+case_019,gpt_5_5,0.9,7,10,9,"[""choque""]"
+case_020,gpt_5_5,0.9,6,10,9,"[""via_aerea""]"
+case_021,gpt_5_5,1.0,7,8,8,[]
+case_022,gpt_5_5,0.9,6,10,9,"[""sangramento""]"
+case_023,gpt_5_5,0.78,6,9,7,"[""duracao"", ""historico""]"
+case_024,gpt_5_5,0.9,8,10,9,"[""sinais_vitais""]"
+case_025,gpt_5_5,0.8,6,10,8,"[""avc"", ""sinais_vitais""]"
+case_026,gpt_5_5,0.9,7,10,9,"[""avc""]"
+case_027,gpt_5_5,1.0,6,9,9,[]
+case_028,gpt_5_5,1.0,5,9,9,[]
+case_029,gpt_5_5,0.25,3,8,2,"[""sinais_vitais"", ""duracao"", ""febre"", ""intensidade_dor"", ""historico"", ""medicamentos""]"
+case_030,gpt_5_5,0.78,6,9,7,"[""choque"", ""sinais_vitais""]"
+case_031,gpt_5_5,0.86,6,7,6,"[""duracao""]"
+case_032,gpt_5_5,0.89,7,9,8,"[""intensidade_dor""]"
+case_033,gpt_5_5,1.0,7,8,8,[]
+case_034,gpt_5_5,1.0,7,9,9,[]
+case_035,gpt_5_5,0.89,5,9,8,"[""sangramento""]"
+case_036,gpt_5_5,0.78,6,9,7,"[""via_aerea"", ""sinais_vitais""]"
+case_037,gpt_5_5,0.85,8,13,11,"[""choque"", ""sinais_vitais""]"
+case_038,gpt_5_5,0.8,6,10,8,"[""hipoglicemia"", ""choque""]"
+case_039,gpt_5_5,0.88,7,8,7,"[""sangramento""]"
+case_040,gpt_5_5,0.89,7,9,8,"[""sinais_vitais""]"
+case_041,gpt_5_5,0.8,6,10,8,"[""avc"", ""sinais_vitais""]"
+case_042,gpt_5_5,1.0,6,9,9,[]
+case_043,gpt_5_5,0.75,8,12,9,"[""intensidade_dor"", ""duracao"", ""sinais_vitais""]"
+case_044,gpt_5_5,1.0,6,7,7,[]
+case_045,gpt_5_5,1.0,5,7,7,[]
+case_046,gpt_5_5,1.0,7,9,9,[]
+case_047,gpt_5_5,0.78,7,9,7,"[""via_aerea"", ""sinais_vitais""]"
+case_048,gpt_5_5,0.88,6,8,7,"[""angioedema""]"
+case_049,gpt_5_5,0.75,7,8,6,"[""sinais_vitais"", ""historico""]"
+case_050,gpt_5_5,0.8,6,10,8,"[""choque"", ""sinais_vitais""]"
+case_051,gpt_5_5,0.82,7,11,9,"[""choque"", ""sangramento""]"
+case_052,gpt_5_5,0.75,8,12,9,"[""via_aerea"", ""sinais_vitais"", ""hipoglicemia""]"
+case_053,gpt_5_5,0.9,7,10,9,"[""sinais_vitais""]"
+case_054,gpt_5_5,0.83,6,6,5,"[""sangramento""]"
+case_055,gpt_5_5,0.89,7,9,8,"[""duracao""]"
+case_056,gpt_5_5,0.82,6,11,9,"[""dor_peito_grave"", ""sinais_vitais""]"
+case_057,gpt_5_5,0.9,7,10,9,"[""sinais_vitais""]"
+case_058,gpt_5_5,0.7,7,10,7,"[""choque"", ""sangramento"", ""sinais_vitais""]"
+case_059,gpt_5_5,0.78,6,9,7,"[""via_aerea"", ""duracao""]"
+case_060,gpt_5_5,0.9,6,10,9,"[""intensidade_dor""]"
+case_061,gpt_5_5,0.88,7,8,7,"[""via_aerea""]"
+case_062,gpt_5_5,1.0,8,8,8,[]
+case_063,gpt_5_5,1.0,7,11,11,[]
+case_064,gpt_5_5,0.8,6,10,8,"[""via_aerea"", ""duracao""]"
+case_065,gpt_5_5,1.0,7,9,9,[]
+case_066,gpt_5_5,0.73,6,11,8,"[""choque"", ""sangramento"", ""sinais_vitais""]"
+case_067,gpt_5_5,1.0,7,8,8,[]
+case_068,gpt_5_5,0.75,6,8,6,"[""via_aerea"", ""sinais_vitais""]"
+case_069,gpt_5_5,0.78,6,9,7,"[""via_aerea"", ""sinais_vitais""]"
+case_070,gpt_5_5,1.0,8,8,8,[]
+case_071,gpt_5_5,1.0,6,9,9,[]
+case_072,gpt_5_5,0.9,7,10,9,"[""estado_mental""]"
+case_073,gpt_5_5,1.0,6,8,8,[]
+case_074,gpt_5_5,0.89,6,9,8,"[""intensidade_dor""]"
+case_075,gpt_5_5,0.89,6,9,8,"[""sinais_vitais""]"
+case_076,gpt_5_5,0.8,8,10,8,"[""duracao"", ""sinais_vitais""]"
+case_077,gpt_5_5,0.7,5,10,7,"[""choque"", ""estado_mental"", ""sinais_vitais""]"
+case_078,gpt_5_5,0.88,6,8,7,"[""estado_mental""]"
+case_079,gpt_5_5,0.9,8,10,9,"[""intensidade_dor""]"
+case_080,gpt_5_5,0.8,6,10,8,"[""intensidade_dor"", ""sinais_vitais""]"
+case_081,gpt_5_5,0.9,6,10,9,"[""sinais_vitais""]"
+case_082,gpt_5_5,1.0,7,9,9,[]
+case_083,gpt_5_5,1.0,7,9,9,[]
+case_084,gpt_5_5,0.6,8,10,6,"[""choque"", ""intensidade_dor"", ""sinais_vitais"", ""historico""]"
+case_085,gpt_5_5,0.89,6,9,8,"[""duracao""]"
+case_086,gpt_5_5,1.0,8,10,10,[]
+case_087,gpt_5_5,0.8,6,10,8,"[""via_aerea"", ""sinais_vitais""]"
+case_088,gpt_5_5,0.75,6,8,6,"[""via_aerea"", ""sinais_vitais""]"
+case_089,gpt_5_5,0.8,6,10,8,"[""dor_peito_grave"", ""sinais_vitais""]"
+case_090,gpt_5_5,1.0,7,9,9,[]
+case_091,gpt_5_5,0.71,5,7,5,"[""duracao"", ""sinais_vitais""]"
+case_092,gpt_5_5,1.0,8,8,8,[]
+case_093,gpt_5_5,0.86,7,7,6,"[""sangramento""]"
+case_094,gpt_5_5,1.0,7,8,8,[]
+case_095,gpt_5_5,0.33,3,9,3,"[""consciencia"", ""intensidade_dor"", ""duracao"", ""febre"", ""historico"", ""medicamentos""]"
+case_096,gpt_5_5,0.89,7,9,8,"[""sinais_vitais""]"
+case_097,gpt_5_5,0.78,8,9,7,"[""sinais_vitais"", ""historico""]"
+case_098,gpt_5_5,0.63,5,8,5,"[""consciencia"", ""imunossuprimido"", ""historico""]"
+case_099,gpt_5_5,0.78,7,9,7,"[""via_aerea"", ""sinais_vitais""]"
+case_100,gpt_5_5,0.89,7,9,8,"[""sinais_vitais""]"

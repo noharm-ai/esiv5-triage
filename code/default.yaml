@@ -1,0 +1,81 @@
+lms:
+  claude_haiku4_5:
+    class: langchain_aws.ChatBedrockConverse
+    args:
+      region_name: "us-east-1"
+      model_id: "us.anthropic.claude-haiku-4-5-20251001-v1:0"
+
+  claude_sonnet4_5:
+    class: langchain_aws.ChatBedrockConverse
+    args:
+      region_name: "us-east-1"
+      model_id: "us.anthropic.claude-sonnet-4-6"
+
+  qwen3-next:
+    class: langchain_aws.ChatBedrockConverse
+    args:
+      region_name: "us-east-1"
+      model_id: "qwen.qwen3-next-80b-a3b"
+
+  deepseekv32:
+    class: langchain_aws.ChatBedrockConverse
+    args:
+      region_name: "us-east-1"
+      model_id: "deepseek.v3.2"
+
+  kimik25:
+    class: langchain_aws.ChatBedrockConverse
+    args:
+      region_name: "us-east-1"
+      model_id: "moonshotai.kimi-k2.5"
+
+  minimax21:
+    class: langchain_aws.ChatBedrockConverse
+    args:
+      region_name: "us-east-1"
+      model_id: "minimax.minimax-m2.1"
+
+  sabiazinho_4:
+    class: langchain_community.chat_models.ChatMaritalk
+    args:
+      model: "sabiazinho-4"
+      api_key: ${env:MARITACA_API_KEY}
+
+  sabia_4:
+    class: langchain_community.chat_models.ChatMaritalk
+    args:
+      model: "sabia-4"
+      api_key: ${env:MARITACA_API_KEY}
+
+  # Modelo brasileiro com raciocínio (reasoning trace) — Maritaca AI
+  sabia_4_thinking:
+    class: langchain_community.chat_models.ChatMaritalk
+    args:
+      model: "sabia-4-thinking"
+      api_key: ${env:MARITACA_API_KEY}
+
+  # --- OpenAI (cross-family) — ids pinados para reprodutibilidade ---
+  gpt_5_4:
+    class: langchain_openai.ChatOpenAI
+    args:
+      model: "gpt-5.4-2026-03-05"
+      api_key: ${env:OPENAI_API_KEY}
+
+  gpt_5_4_mini:
+    class: langchain_openai.ChatOpenAI
+    args:
+      model: "gpt-5.4-mini-2026-03-17"
+      api_key: ${env:OPENAI_API_KEY}
+
+  gpt_5_5:
+    class: langchain_openai.ChatOpenAI
+    args:
+      model: "gpt-5.5-2026-04-23"
+      api_key: ${env:OPENAI_API_KEY}
+
+  # Usado como paciente simulado (M_P) no controle cross-family
+  gpt_nano:
+    class: langchain_openai.ChatOpenAI
+    args:
+      model: "gpt-5.4-nano-2026-03-17"
+      api_key: ${env:OPENAI_API_KEY}

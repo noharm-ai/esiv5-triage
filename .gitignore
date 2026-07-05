@@ -1,0 +1,19 @@
+# secrets / env
+.env
+.env.*
+*.key
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# never commit anything under here until de-identified + reviewed
+transcripts_PENDING_DEID/*.csv
+transcripts_PENDING_DEID/*.json
+transcripts_PENDING_DEID/*.jsonl
+
+# never commit the private case-id -> record-id mapping
+PRIVATE_case_id_map.csv
+*_case_id_map.csv
