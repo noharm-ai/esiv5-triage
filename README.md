@@ -2,7 +2,7 @@
 
 Code and de-identified data accompanying the paper *"Conversational
 Pre-Triage with Large Language Models: Benchmarking ESI v5 Anamnesis
-Coverage in Brazilian Portuguese"* (under double-blind review).
+Coverage in Brazilian Portuguese"* (IEEE BIBM 2026, LLMBDA workshop).
 
 This benchmark evaluates how well large language models conduct an
 Emergency Severity Index (ESI v5) anamnesis in Brazilian Portuguese.
@@ -10,9 +10,6 @@ A variable **triage model** (M_T) interviews a fixed **simulated patient**
 seeded from a de-identified clinical case; a fixed **classifier** (M_C)
 assigns urgency; and an independent frontier model audits how completely
 M_T's questions cover the ESI v5 criteria (the primary metric).
-
-> **Anonymity note.** This repository is shared for peer review through an
-> anonymized mirror. Please do not attempt to de-anonymize the authors.
 
 ## Repository layout
 
@@ -75,6 +72,27 @@ text that may contain incidental identifiers. A de-identified release of
 the transcripts --- after automated PII scrubbing and clinical review --- is
 planned as **future work**.
 
+## Citation
+
+If you use this benchmark, please cite:
+
+```bibtex
+@inproceedings{morais2026esiv5,
+  title     = {Conversational Pre-Triage with Large Language Models:
+               Benchmarking {ESI} v5 Anamnesis Coverage in Brazilian Portuguese},
+  author    = {Dietrich de Morais, Di{\'o}genes and Oliveira, Juliana Damasio and
+               dos Santos, Henrique Dias Pereira and Borges, Olimar and Lopes, David},
+  booktitle = {IEEE International Conference on Bioinformatics and Biomedicine
+               (BIBM), LLMBDA Workshop},
+  year      = {2026}
+}
+```
+
 ## License
 
-Code released under the MIT License. Data released under CC BY 4.0.
+Code is released under the MIT License (see [`LICENSE`](LICENSE)). The
+de-identified data in `data/` is released under CC BY 4.0 (see
+[`data/LICENSE`](data/LICENSE)). The ESI v5 summary in
+`code/prompts/esi5-algorithm.md` is based on the *Emergency Severity Index
+Handbook*, 5th ed. (Emergency Nurses Association, 2023); ESI is the
+property of its copyright holder and is not covered by the licenses above.

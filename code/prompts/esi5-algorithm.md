@@ -1,5 +1,9 @@
 # ESI Triage Algorithm v5
 
+> Resumo em português baseado no *Emergency Severity Index Handbook*, 5ª ed.
+> (Emergency Nurses Association, 2023). O ESI pertence ao seu detentor de
+> direitos autorais; este resumo não substitui o manual oficial.
+
 ## Objetivo
 
 O **Emergency Severity Index (ESI)** é uma escala de triagem de 5 níveis usada para classificar pacientes no pronto atendimento conforme:
